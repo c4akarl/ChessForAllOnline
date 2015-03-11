@@ -1,0 +1,17 @@
+[Event "c4a Test"]
+[Site "?"]
+[Date "2009.11.30"]
+[Round "-"]
+[White "test"]
+[Black "game"]
+[Result "0-1"]
+[WhiteElo "1879"]
+[BlackElo "2011"]
+[Variant "chess 960"]
+[SetUp "1"]
+[FEN "bbrknrnq/pppppppp/8/8/8/8/PPPPPPPP/BBRKNRNQ w KQkq - 0 1"]
+
+1.f4 b6 2.b3 c5 3.c4 Nef6 4.Ngf3 Nh6 5.g3 O-O-O 6.Qg1 d5 7.Ne5 
+d4 8.N1d3 Nfg4 9.h3 Nxe5 10.Nxe5 Bxe5 11.fxe5 g6 12.e6 fxe6 
+13.Re1 Nf5 14.g4 Ne3+ 15.Qxe3 {? 15.exd!} dxe3 16.Bxh8 {??} 
+Rxd2#  0-1

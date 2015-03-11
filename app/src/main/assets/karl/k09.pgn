@@ -1,0 +1,11 @@
+[Site "www.chesscube.com"]
+[Event "ChessCube Game"]
+[White "kukuxumusu@chesscube.com"]
+[Black "nixisfix@chesscube.com"]
+[Date "2009.09.25"]
+[Result "0-1"]
+[Variant "chess 960"]
+[SetUp "1"]
+[FEN "rbqnkrbn/pppppppp/8/8/8/8/PPPPPPPP/RBQNKRBN w KQkq -"]
+
+1. b3 f6 2. Qa3 c5 3. Ng3 d5 4. Nh5 Kf7 5. b4 c4 6. c3 Bd6 7. Ne3 e6 8. Bc2 b5 9. d3 a5 10. dxc4 axb4 11. Qb2 bxc4 12. cxb4 Be5 13. Qb1 Bxa1 14. Bxh7 Be5 15. Bxg8+ Kxg8 16. Ng4 Bd6 17. f3 Qb7 18. b5 Ra5 19. h3 Rxb5 20. Ngxf6+ gxf6 21. Nxf6+ Rxf6 22. Qc2 Bg3+ 23. Bf2 Rb1+ 24. Kd2 Rb2 25. Bxg3 Qb4+ 26. Kc1 Rxc2+ 27. Kxc2 Nc6 28. Rb1 Nd4+ 29. Kc1 Qc3+ 30. Kd1 Qc2+ 31. Ke1 Qxe2# 0-1

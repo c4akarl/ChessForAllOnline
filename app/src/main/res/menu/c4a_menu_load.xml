@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+	<item 	android:id="@+id/menu_load_extern" android:title="@string/menu_load_extern" /> 
+	<item 	android:id="@+id/menu_load_intern" android:title="@string/menu_load_intern" /> 
+	<item 	android:id="@+id/menu_load_www" android:title="@string/menu_load_www" /> 
+	<item 	android:id="@+id/menu_load_game" android:title="@string/menu_load_game" >
+		<menu>
+			<item 	android:id="@+id/menu_load_game_first" android:title="@string/menu_load_game_first" /> 
+			<item 	android:id="@+id/menu_load_game_last" android:title="@string/menu_load_game_last" /> 
+			<item 	android:id="@+id/menu_load_game_next" android:title="@string/menu_load_game_next" /> 
+			<item 	android:id="@+id/menu_load_game_previous" android:title="@string/menu_load_game_previous" /> 
+			<item 	android:id="@+id/menu_load_game_random" android:title="@string/menu_load_game_random" /> 
+		</menu>
+	</item>  
+</menu>

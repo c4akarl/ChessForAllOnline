@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+	<item 	android:id="@+id/menu_game" android:title="@string/menu_game" >
+		<menu>
+			<item 	android:id="@+id/menu_game_play" android:title="@string/menu_game_play" /> 
+			<item 	android:id="@+id/menu_game_load" android:title="@string/menu_game_load" />
+			<item 	android:id="@+id/menu_game_edit" android:title="@string/menu_game_edit" /> 
+			<item 	android:id="@+id/menu_game_save" android:title="@string/menu_game_save" />
+			<item 	android:id="@+id/menu_game_delete" android:title="@string/menu_game_delete" /> 
+			<item 	android:id="@+id/menu_game_show" android:title="@string/menu_game_show" /> 
+		</menu>
+	</item> 
+	<item 	android:id="@+id/menu_action" android:title="@string/menu_action" >
+		<menu>
+			<item 	android:id="@+id/menu_action_resign" android:title="@string/menu_action_resign" /> 
+			<item 	android:id="@+id/menu_action_draw" android:title="@string/menu_action_draw" /> 
+			<item 	android:id="@+id/menu_action_abort" android:title="@string/menu_action_abort" /> 
+			<item 	android:id="@+id/menu_action_takeback" android:title="@string/menu_action_takeback" /> 
+			<item 	android:id="@+id/menu_action_chat" android:title="@string/menu_action_chat" /> 
+			<item 	android:id="@+id/menu_action_turnboard" android:title="@string/menu_action_turnboard" /> 
+		</menu>
+	</item> 
+	<item 	android:id="@+id/menu_move" android:title="@string/menu_move" >
+		<menu>
+			<item 	android:id="@+id/menu_move_back" android:title="@string/menu_move_back" /> 
+			<item 	android:id="@+id/menu_move_next" android:title="@string/menu_move_next" />
+			<item 	android:id="@+id/menu_move_start" android:title="@string/menu_move_start" /> 
+			<item 	android:id="@+id/menu_move_end" android:title="@string/menu_move_end" />
+			<item 	android:id="@+id/menu_move_auto" android:title="@string/menu_move_auto" />  
+			<item 	android:id="@+id/menu_move_delete" android:title="@string/menu_move_delete" /> 
+			<item 	android:id="@+id/menu_move_text" android:title="@string/menu_move_text" /> 
+		</menu>
+	</item>   
+	<item 	android:id="@+id/menu_pgn" android:title="@string/menu_pgn" >
+		<menu>  
+    		<item android:id="@+id/menu_pgn_data" android:title="@string/menu_pgn_data" />
+    		<item android:id="@+id/menu_pgn_notation" android:title="@string/menu_pgn_notation" />
+    		<item android:id="@+id/menu_pgn_all" android:title="@string/menu_pgn_all" />
+    		<item android:id="@+id/menu_pgn_clipboardCopy" android:title="@string/menu_pgn_clipboardCopy" /> 
+			<item android:id="@+id/menu_pgn_clipboardPaste" android:title="@string/menu_pgn_clipboardPaste" /> 
+    	</menu>
+    </item>  
+	<item 	android:id="@+id/menu_prefs" android:title="@string/menu_prefs" />  
+	<item 	android:id="@+id/menu_about" android:title="@string/menu_about" >
+		<menu>  
+     		<item 	android:id="@+id/menu_about_apps" android:title="@string/menu_about_apps" />
+     		<item 	android:id="@+id/menu_about_website" android:title="@string/menu_about_website" />
+     		<item 	android:id="@+id/menu_about_sourcecode" android:title="@string/menu_about_sourcecode" />
+    		<item 	android:id="@+id/menu_about_contact" android:title="@string/menu_about_contact" />
+    	</menu>
+    </item>
+</menu>

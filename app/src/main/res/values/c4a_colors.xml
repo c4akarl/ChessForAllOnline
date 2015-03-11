@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<color name="app_background">#244222</color>
+	<color name="view_background">#ced1d6</color>
+	<color name="tv_background">#c4f8c0</color>
+	<color name="lv_background">#4c667e</color>
+	<color name="move_blank_background">#efe395</color>
+	<color name="move_text_background">#9adaec</color>
+	<color name="move_message_background">#f6d2f4</color>
+	<color name="chat_background">#c3d6f4</color>
+	<color name="notation_background">#efe395</color>
+	<color name="chess960_id_background">#d9b9ec</color>
+	<color name="text_dark">#000000</color>
+	<color name="text_light">#ffc020</color>
+	<color name="fm_load">#4f684d</color>
+	<color name="fm_save">#807910</color>
+	<color name="fm_delete">#6b2c2d</color>
+</resources>

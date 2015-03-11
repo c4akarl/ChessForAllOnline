@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen  	xmlns:android="http://schemas.android.com/apk/res/android"
+	android:key="preferencescreen_main" 
+	android:title="@string/prefsUser" >
+	<PreferenceScreen
+		android:key="c4a_commonPrefScreen"
+		android:title="@string/prefsCommonPrefScreen" >
+		<CheckBoxPreference
+			android:key="c4a_showStatusBar"
+			android:defaultValue="false"
+			android:title="@string/prefsUserShowStatusBar" />
+		<CheckBoxPreference
+			android:key="c4a_showEndPosition"
+			android:defaultValue="false"
+			android:title="@string/prefsUserShowLastPosition" />
+		<CheckBoxPreference
+			android:key="c4a_enableSounds"
+			android:defaultValue="true"
+			android:title="@string/prefsUserEnableSounds" />
+		<CheckBoxPreference
+			android:key="c4a_enableScreenTimeout"
+			android:defaultValue="false"
+			android:title="@string/prefsUserEnableScreenTimeout" />
+		<CheckBoxPreference
+			android:key="c4a_enableLog"
+			android:defaultValue="false"
+			android:title="@string/prefsUserEnableLog" />
+	</PreferenceScreen>
+	<PreferenceScreen
+		android:key="c4a_chatPrefScreen"
+		android:title="@string/prefsChatPrefScreen" >
+		<CheckBoxPreference
+			android:key="c4a_enableChat"
+			android:defaultValue="true"
+			android:title="@string/prefsUserEnableChat" />
+		<CheckBoxPreference
+			android:key="c4a_enableChatPromotion"
+			android:defaultValue="true"
+			android:title="@string/prefsUserEnableChatPromotion" />
+        <EditTextPreference
+            android:key="c4a_editChatPromotion" 
+            android:title="@string/prefsUserEditChatPromotionTitle"/>
+	</PreferenceScreen>
+	<ListPreference
+        android:title="@string/prefsGuiChessBoard"
+        android:key="c4a_chessBoardId"
+        android:defaultValue="1"
+        android:entries="@array/chessBoardArray"
+        android:entryValues="@array/chessBoardValues" />
+</PreferenceScreen>

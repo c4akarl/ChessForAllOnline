@@ -1,0 +1,16 @@
+[Event "ChessCube Game"]
+[Site "www.chesscube.com"]
+[Date "2009.09.25"]
+[Round "-"]
+[White "kukuxumusu@chesscube.com"]
+[Black "nixisfix@chesscube.com"]
+[Result "0-1"]
+[WhiteElo "1717"]
+[BlackElo "1605"]
+[Time "5:00"]
+[TimeControl "5 min + 5"]
+[Variant "chess 960"]
+[SetUp "1"]
+[FEN "rqknnbbr/pppppppp/8/8/8/8/PPPPPPPP/RQKNNBBR w KQkq -"]
+
+1. Nc3  c5 2. Nd3  e6 3. f3  Qc7 4. Ne4  b6 5. Be3  Nc6 6. Bf4  e5 7. Bg3  d5 8. Nc3  O-O-O 9. e3  f6 10. b4  c4 11. b5  Ba3+ 12. Kd1  Na5 13. Nf2  d4 14. exd4  Qd6 15. Nce4  Qxd4 16. c3  Qd7 17. Qc2  Nd6 18. Qa4  Nxe4 19. Nxe4  Be7 20. Qc2  f5 21. Nf2  Bf6 22. Rb1  Nb7 23. a4  Nc5 24. Be2  Nb3 25. Rxb3  cxb3 26. Qb2  Bf7 27. Nd3  e4 28. fxe4  fxe4 29. Nf4  e3 30. d3  Rhe8 31. Rf1  Bg6 32. h3  Bxd3 33. Bg4  Bf5+ 34. Ke2  Bxg4+ 35. hxg4  Qd2+ 36. Qxd2  exd2+ 37. Kd1  b2 38. Kc2  d1=Q+ 39. Rxd1  Rxd1 40. Kxd1  b1=Q+ 41. Kd2  Rd8+ 42. Ke3  Qc1+ 43. Ke4  Qc2+ 44. Kf3  Qxc3+ 45. Kf2  Bd4+ 46. Kf1  Qxg3 47. Ke2  Re8+ 48. Kd2  Qxf4+ 49. Kd3  Qe3+ 50. Kc4  Qc3+ 51. Kd5  Qc5#  0-1

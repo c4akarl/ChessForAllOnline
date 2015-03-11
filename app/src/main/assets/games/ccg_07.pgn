@@ -1,0 +1,16 @@
+[Event "ChessCube Game"]
+[Site "www.chesscube.com"]
+[Date "2009.10.05"]
+[Round "-"]
+[White "parkeden@chesscube.com"]
+[Black "pirate2333@chesscube.com"]
+[Result "0-1"]
+[WhiteElo "1848"]
+[BlackElo "1894"]
+[Time "5:00"]
+[TimeControl "5 min"]
+[Variant "chess 960"]
+[SetUp "1"]
+[FEN "rnnqbbkr/pppppppp/8/8/8/8/PPPPPPPP/RNNQBBKR w KQkq -"]
+
+1. c4  e5 2. a4  d6 3. Qb3  b6 4. a5  Nc6 5. axb6  cxb6 6. e3  Be7 7. g3  O-O 8. Bg2  Bd7 9. Nc3  Rb8 10. Nd5  Na5 11. Qc2  Be6 12. b4  Nb7 13. d4  exd4 14. exd4  Bxd5 15. Bxd5  Bf6 16. Bc3  Ne7 17. Rxa7  Nxd5 18. cxd5  Qc8 19. O-O  Bxd4 20. Ne2  Be5 21. Rc1  Qg4 22. Bxe5  dxe5 23. Qc4  Qd7 24. Nc3  Rfc8 25. Qa6  Rc7 26. Ra8  Rbc8 27. Kg2  f6 28. Qa2  Nd6 29. Nb5  Rxc1 30. Nxd6  Qxd6 31. Kh3  Rxa8 32. Qxa8+  Kf7 33. Qb7+  Kg6 34. Qa8  Rc7 35. Qe8+  Kh6 36. Qe6  Qxe6+ 37. dxe6  Re7 38. f4  Rxe6 39. fxe5  Rxe5 40. Kg4  Kg6 41. h4  Rb5 42. Kf4  Rxb4+ 43. Kf3  Rc4 44. g4  b5 45. Ke3  b4 46. g5  fxg5 47. hxg5  Kxg5 48. Kd3  Rc8 49. Kd2  b3 50. Kd3  b2 51. Kd4  b1=Q 52. Kd5  Qb6 53. Ke5  Rc5+ 54. Kd4  Qb4+ 55. Kd3  Rc3+ 56. Ke2  Qb2+  0-1

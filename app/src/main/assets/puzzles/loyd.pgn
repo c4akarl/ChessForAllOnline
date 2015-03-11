@@ -1,0 +1,2759 @@
+[Event "?"]
+[Site " BIEN0337"]
+[Date "1859.??.??"]
+[Round "1"]
+[White "LOYD Sam; (V) Boston Gazette 1859"]
+[Black "#2"]
+[Result "1-0"]
+[FEN "2brrb2/p7/p7/7Q/1p1kpPp1/1P1pN1P1/3K4/8 w - - 0 1"]
+
+1. Qa5 Bc5
+(1. ... Rd5 2. Qxd5#)
+(1. ... Re5 2. Qxe5#)
+(1. ... Bf5 2. Nxf5#)
+(1. ... Bd6 2. Qd5#)
+(1. ... Be6 2. Qe5#)
+(1. ... Rd6 2. Qxb4#)
+(1. ... Rd7 2. Nf5#)
+2. Qa1#   1-0
+
+[Event "?"]
+[Site " BREU0459"]
+[Date "1895.??.??"]
+[Round "2"]
+[White "LOYD Sam; Standard Union 1895"]
+[Black "#2"]
+[Result "1-0"]
+[FEN "8/5Pq1/2R3P1/2PP2B1/K1p1p3/N1kpN2R/3n3Q/b7 w - - 0 1"]
+
+1. Rh8 Kb2
+(1. ... Qe5 2. Qxe5#)
+(1. ... Qxh8 2. Qxh8#)
+(1. ... Qf6 2. Bxf6#)
+(1. ... Qd4 2. Nd1#)
+(1. ... Qf8 2. Qe5#)
+(1. ... Qf8 2. Bf6#)
+(1. ... Kd4 2. Nb5#)
+2. Qxd2#   1-0
+
+[Event "?"]
+[Site " Y83452"]
+[Date "????.??.??"]
+[Round "3"]
+[White "LOYD Samuel"]
+[Black "#2"]
+[Result "1-0"]
+[FEN "5K2/2BP2n1/4kN1R/8/3r4/8/4P1Q1/8 w - - 0 1"]
+
+1. Bf4 Nf5
+(1. ... Rd5 2. Qxd5#)
+(1. ... Re4 2. Qxe4#)
+(1. ... Ra4 2. Qd5#)
+(1. ... Rd1 2. Qe4#)
+(1. ... Kf5 2. Qg4#)
+(1. ... Ne8 2. Qh3#)
+2. Qg8#   1-0
+
+[Event "?"]
+[Site " Y83449"]
+[Date "????.??.??"]
+[Round "4"]
+[White "LOYD Samuel"]
+[Black "#2"]
+[Result "1-0"]
+[FEN "1q6/1P1p4/3Rp3/5P2/6P1/6P1/1R6/Q4K1k w - - 0 1"]
+
+1. Qa8 Qc8
+(1. ... Qxb7 2. Qxb7#)
+(1. ... Qh8 2. Qxh8#)
+(1. ... Qd8 2. b8=Q#)
+(1. ... Qa7 2. Qh8#)
+(1. ... e5 2. Rh6#)
+2. bxc8=Q#   1-0
+
+[Event "?"]
+[Site " Y83447"]
+[Date "????.??.??"]
+[Round "5"]
+[White "LOYD Samuel"]
+[Black "#2"]
+[Result "1-0"]
+[FEN "7K/8/5Rqk/6bp/7R/8/3Q4/8 w - - 0 1"]
+
+1. Rhf4 Bxf4
+(1. ... Qxf6+ 2. Rxf6#)
+(1. ... Bxf6+ 2. Rxf6#)
+(1. ... Bh4 2. Rxh4#)
+(1. ... h4 2. Rxh4#)
+2. Qxf4#   1-0
+
+[Event "?"]
+[Site " Y246033"]
+[Date "????.??.??"]
+[Round "6"]
+[White "LOYD Samuel"]
+[Black "#2"]
+[Result "1-0"]
+[FEN "8/1NB1R3/1P2B3/1bQ1p3/1RP1k3/1p2r3/1KP1pbn1/8 w - - 0 1"]
+
+1. Qd4+ Kf3
+(1. ... exd4 2. Bg4#)
+(1. ... Kxd4 2. cxb5#)
+2. Qg4#   1-0
+
+[Event "Detroit Free Press"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "7"]
+[White "LOYD Samuel"]
+[Black "#2"]
+[Result "1-0"]
+[FEN "4N2K/6pP/1pQ5/1RN5/P2kp2P/7q/3bBPbn/3R1nrr w - - 0 1"]
+
+1. Kg8 g6
+(1. ... bxc5 2. Qxc5#)
+(1. ... Qb3+ 2. Nxb3#)
+(1. ... Qe6+ 2. Nxe6#)
+(1. ... g5 2. h8=Q#)
+(1. ... Qc3 2. Qd6#)
+(1. ... Qc8 2. Nb3#)
+(1. ... Kc3 2. Ne6#)
+2. h8=B#   1-0
+
+[Event "N.Y. State Chess Associaton"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "8"]
+[White "LOYD Samuel"]
+[Black "#2"]
+[Result "1-0"]
+[FEN "6kn/3NR3/6rR/5N2/pB3P2/Knp2r1p/B1P4b/7Q w - - 0 1"]
+
+1. Rxh3 Nf7
+(1. ... Rg7 2. Rxg7#)
+(1. ... Rh6 2. Nxh6#)
+(1. ... Rd3 2. Qa8#)
+(1. ... Ra6 2. Rg7#)
+(1. ... Bg1 2. Rxh8#)
+(1. ... Rg1 2. Nh6#)
+2. Re8#   1-0
+
+[Event "N.Y.State Chess Association"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "9"]
+[White "LOYD Samuel"]
+[Black "#2"]
+[Result "1-0"]
+[FEN "7B/5R2/3p3N/1p1P4/1K2k2r/4N3/4Q3/8 w - - 0 1"]
+
+1. Rg7 Rg4
+(1. ... Kf4 2. Ng2#)
+(1. ... Kd4 2. Re7#)
+(1. ... Kd4 2. Rg4#)
+2. Rxg4#   1-0
+
+[Event "Boston Gazette"]
+[Site "?"]
+[Date "1855.??.??"]
+[Round "10"]
+[White "LOYD Samuel"]
+[Black "#2"]
+[Result "1-0"]
+[FEN "2brrb2/8/p7/7Q/1p1kpPp1/1P1pN1P1/3K4/8 w - - 0 1"]
+
+1. Qa5 Bc5
+(1. ... Rd5 2. Qxd5#)
+(1. ... Re5 2. Qxe5#)
+(1. ... Bf5 2. Nxf5#)
+(1. ... Re7 2. Qb6#)
+(1. ... Bd6 2. Qd5#)
+(1. ... Be6 2. Qe5#)
+(1. ... Rd6 2. Qxb4#)
+(1. ... Rd7 2. Nf5#)
+2. Qa1#   1-0
+
+[Event "Unpublished"]
+[Site "?"]
+[Date "1855.??.??"]
+[Round "11"]
+[White "LOYD Samuel"]
+[Black "#2"]
+[Result "1-0"]
+[FEN "8/8/5R2/2ppp2p/3kp2K/R1Np4/6Q1/2N1BB2 w - - 0 1"]
+
+1. Qg7 c4
+(1. ... Ke3 2. Qg1#)
+(1. ... Kc4 2. Ra4#)
+(1. ... e3 2. Rf4#)
+(1. ... d2 2. Nb5#)
+2. Qa7#   1-0
+
+[Event "Chess Monthly"]
+[Site "?"]
+[Date "1857.??.??"]
+[Round "12"]
+[White "LOYD Samuel"]
+[Black "#2"]
+[Result "1-0"]
+[FEN "7Q/q7/2PPBRPN/4kN1R/4p1pB/1P2p1Pb/2P1p3/4K3 w - - 0 1"]
+
+1. Qa8 Qa1+
+(1. ... Qa5+ 2. Qxa5#)
+(1. ... Qf7 2. Nxf7#)
+(1. ... Qb7 2. Qa1#)
+(1. ... Qd7 2. Qa5#)
+(1. ... Qa2 2. Nf7#)
+(1. ... Bf1 2. Nxg4#)
+2. Qxa1#   1-0
+
+[Event "Saturday's Press"]
+[Site "?"]
+[Date "1857.??.??"]
+[Round "13"]
+[White "LOYD Samuel"]
+[Black "#2"]
+[Result "1-0"]
+[FEN "8/8/8/8/5N2/6n1/1np5/1rk1K2Q w - - 0 1"]
+
+1. Qa8 Ra1
+(1. ... Nd3+ 2. Nxd3#)
+(1. ... Ne2 2. Nxe2#)
+(1. ... Na4 2. Nd3#)
+(1. ... Ne4 2. Ne2#)
+2. Qxa1#   1-0
+
+[Event "American Chess Nuts"]
+[Site "?"]
+[Date "1858.??.??"]
+[Round "14"]
+[White "LOYD Samuel"]
+[Black "#2"]
+[Result "1-0"]
+[FEN "5b2/1p2p1p1/1Q1pR1P1/6P1/k2p1K1p/1p1N3P/r1n3P1/nN1B4 w - - 0 1"]
+
+1. Na3 Nb4
+(1. ... Rxa3 2. Nb2#)
+(1. ... Kxa3 2. Qa5#)
+(1. ... Kxa3 2. Qa7#)
+(1. ... Ne1 2. Qb4#)
+2. Qxb4#   1-0
+
+[Event "Frank Leslie's"]
+[Site "?"]
+[Date "1858.??.??"]
+[Round "15"]
+[White "LOYD Samuel"]
+[Black "#2"]
+[Result "1-0"]
+[FEN "8/4p1K1/4p3/4kN2/3R4/7Q/7b/5b1n w - - 0 1"]
+
+1. Qh8 exf5
+(1. ... Kxf5 2. Qh5#)
+(1. ... Ba6 2. Kg6#)
+2. Kf7#   1-0
+
+[Event "Frank Leslie's"]
+[Site "?"]
+[Date "1858.??.??"]
+[Round "16"]
+[White "LOYD Samuel"]
+[Black "#2"]
+[Result "1-0"]
+[FEN "8/8/2K3Q1/8/2bk4/2Np4/1B2q3/8 w - - 0 1"]
+
+1. Qe4+ Qxe4+ 2. Nd5#   1-0
+
+[Event "Musical World"]
+[Site "?"]
+[Date "1858.??.??"]
+[Round "17"]
+[White "LOYD Samuel"]
+[Black "#2"]
+[Result "1-0"]
+[FEN "8/6K1/1p1B1RB1/8/2Q5/2n1kP1N/3b4/4n3 w - - 0 1"]
+
+1. Ba3 Nd3
+(1. ... Ne4 2. Qxe4#)
+(1. ... b5 2. Bc5#)
+(1. ... Bc1 2. Bxc1#)
+(1. ... Nc2 2. Qd3#)
+(1. ... Na2 2. Qe4#)
+2. Qxd3#   1-0
+
+[Event "Musical World"]
+[Site "?"]
+[Date "1858.??.??"]
+[Round "18"]
+[White "LOYD Samuel"]
+[Black "#2"]
+[Result "1-0"]
+[FEN "8/8/4B3/1p1p4/3k4/3b2Q1/3K4/4R3 w - - 0 1"]
+
+1. Re4+ Bxe4
+(1. ... Kc5 2. Qc7#)
+(1. ... dxe4 2. Qd6#)
+(1. ... Kxe4 2. Qe3#)
+2. Qc3#   1-0
+
+[Event "N.Y.Albion"]
+[Site "?"]
+[Date "1858.??.??"]
+[Round "19"]
+[White "LOYD Samuel"]
+[Black "#2"]
+[Result "1-0"]
+[FEN "1b6/1qPB4/5K2/1npkP3/Q1N2p2/2prpP2/b1N5/8 w - - 0 1"]
+
+1. Qa8 Kxc4
+(1. ... Bxc4 2. Qxb7#)
+(1. ... Qc6+ 2. Be6#)
+(1. ... Ba7 2. Qg8#)
+(1. ... Qxa8 2. Nb6#)
+2. Qxa2#   1-0
+
+[Event "Philadelphia Evening Bulletin"]
+[Site "?"]
+[Date "1858.??.??"]
+[Round "20"]
+[White "LOYD Samuel"]
+[Black "#2"]
+[Result "1-0"]
+[FEN "7B/2R1KnQ1/1p1PP3/3k4/2N5/r3p1N1/4n3/1q6 w - - 0 1"]
+
+1. Qa1 Ra8
+(1. ... Nd4 2. Qxd4#)
+(1. ... Ne5 2. Qxe5#)
+(1. ... Qh1 2. Qxh1#)
+(1. ... b5 2. Nb6#)
+(1. ... Rb3 2. Qa8#)
+(1. ... Nc1 2. Qd4#)
+(1. ... Nd8 2. Qe5#)
+(1. ... Qa2 2. Qh1#)
+(1. ... Qa2 2. Nxb6#)
+(1. ... Ra2 2. Nxe3#)
+2. Qxa8#   1-0
+
+[Event "?"]
+[Site " Y197723"]
+[Date "1859.??.??"]
+[Round "21"]
+[White "LOYD Samuel"]
+[Black "#2"]
+[Result "1-0"]
+[FEN "8/8/8/1p2K2B/8/3k4/1P6/1R2B3 w - - 0 1"]
+
+1. b4 Ke3
+(1. ... Kc4 2. Be2#)
+(1. ... Kc2 2. Bg6#)
+2. Rb3#   1-0
+
+[Event "Baltimore Dispatch"]
+[Site "?"]
+[Date "1859.??.??"]
+[Round "22"]
+[White "LOYD Samuel"]
+[Black "#2"]
+[Result "1-0"]
+[FEN "8/1KN5/7Q/pnk5/r1qR4/8/8/2B5 w - - 0 1"]
+
+1. Qe6 Kxd4
+(1. ... Nxd4 2. Qe7#)
+(1. ... Qd5+ 2. Qxd5#)
+(1. ... Nd6+ 2. Qxd6#)
+(1. ... Qxd4 2. Na6#)
+(1. ... Qxe6 2. Nxe6#)
+(1. ... Qa2 2. Qb6#)
+(1. ... Qb4 2. Qd5#)
+(1. ... Na3 2. Qd6#)
+(1. ... Qb4 2. Qe5#)
+(1. ... Kb4 2. Qxc4#)
+(1. ... Ra1 2. Rxc4#)
+2. Qe3#   1-0
+
+[Event "Boston Gazette"]
+[Site "?"]
+[Date "1859.??.??"]
+[Round "23"]
+[White "LOYD Samuel"]
+[Black "#2"]
+[Result "1-0"]
+[FEN "2brrb2/8/p7/7Q/1p1kpPp1/1P1pN1K1/3P4/8 w - - 0 1"]
+
+1. Qa5 Bc5
+(1. ... Rd5 2. Qxd5#)
+(1. ... Re5 2. Qxe5#)
+(1. ... Bf5 2. Nxf5#)
+(1. ... Re7 2. Qb6#)
+(1. ... Bd6 2. Qd5#)
+(1. ... Be6 2. Qe5#)
+(1. ... Rd6 2. Qxb4#)
+(1. ... Rd7 2. Nf5#)
+2. Qa1#   1-0
+
+[Event "Linn News"]
+[Site "?"]
+[Date "1859.??.??"]
+[Round "24"]
+[White "LOYD Samuel"]
+[Black "#2"]
+[Result "1-0"]
+[FEN "4R2b/5k2/3K4/4p3/4P2Q/8/8/8 w - - 0 1"]
+
+1. Qg4 Bg7
+(1. ... Kf6 2. Rf8#)
+(1. ... Kxe8 2. Qg8#)
+2. Qe6#   1-0
+
+[Event "Lyn News"]
+[Site "?"]
+[Date "1859.??.??"]
+[Round "25"]
+[White "LOYD Samuel"]
+[Black "#2"]
+[Result "1-0"]
+[FEN "6R1/7r/3P4/8/5Qpk/3Kn3/8/5N1r w - - 0 1"]
+
+1. Ke2 Rh2+
+(1. ... Rh6 2. Qxh6#)
+(1. ... Rh8 2. Rxh8#)
+(1. ... Kh3 2. Qg3#)
+(1. ... Kh5 2. Qg5#)
+(1. ... Rg1 2. Qh2#)
+(1. ... Ra7 2. Qh6#)
+(1. ... Nc2 2. Qxg4#)
+2. Qxh2#   1-0
+
+[Event "Musical World"]
+[Site "?"]
+[Date "1859.??.??"]
+[Round "26"]
+[White "LOYD Samuel"]
+[Black "#2"]
+[Result "1-0"]
+[FEN "8/8/7Q/1P6/2k1B3/2B5/8/4K3 w - - 0 1"]
+
+1. Bd5+ Kc5
+(1. ... Kd3 2. Qd2#)
+2. Qc6#   1-0
+
+[Event "Musical World"]
+[Site "?"]
+[Date "1859.??.??"]
+[Round "27"]
+[White "LOYD Samuel"]
+[Black "#2"]
+[Result "1-0"]
+[FEN "8/8/8/6Q1/4R3/2K2p2/5k2/5b2 w - - 0 1"]
+
+1. Re1 Kxe1
+(1. ... Bg2 2. Qh4#)
+(1. ... Ba6 2. Qg1#)
+2. Qd2#   1-0
+
+[Event "Musical World"]
+[Site "?"]
+[Date "1859.??.??"]
+[Round "28"]
+[White "LOYD Samuel"]
+[Black "#2"]
+[Result "1-0"]
+[FEN "2B5/8/8/2K3P1/4k3/6R1/3B4/8 w - - 0 1"]
+
+1. Rg2 Ke5
+(1. ... Kf3 2. Bb7#)
+(1. ... Kd3 2. Bf5#)
+2. Re2#   1-0
+
+[Event "Musical World"]
+[Site "?"]
+[Date "1859.??.??"]
+[Round "29"]
+[White "LOYD Samuel"]
+[Black "#2"]
+[Result "1-0"]
+[FEN "8/r1b5/1R1N4/kq6/p2Q4/8/K7/8 w - - 0 1"]
+
+1. Qe5 Qc5
+(1. ... Kxb6 2. Qxb5#)
+(1. ... Kb4 2. Rxb5#)
+(1. ... Qc5 2. Nc4#)
+2. Qxc5#   1-0
+
+[Event "Musical World"]
+[Site "?"]
+[Date "1859.??.??"]
+[Round "30"]
+[White "LOYD Samuel"]
+[Black "#2"]
+[Result "1-0"]
+[FEN "8/4K3/3N3B/3pk2n/6R1/8/8/4n3 w - - 0 1"]
+
+1. Rf4 d4
+(1. ... Nxf4 2. Bg7#)
+(1. ... Nc2 2. Nf7#)
+2. Rf5#   1-0
+
+[Event "Musical World"]
+[Site "?"]
+[Date "1859.??.??"]
+[Round "31"]
+[White "LOYD Samuel"]
+[Black "#2"]
+[Result "1-0"]
+[FEN "1K6/8/7N/3k2p1/2N3B1/1R2B3/8/8 w - - 0 1"]
+
+1. Ng8 Kxc4
+(1. ... Kc6 2. Ne7#)
+(1. ... Ke4 2. Nf6#)
+2. Be6#   1-0
+
+[Event "Musical World"]
+[Site "?"]
+[Date "1859.??.??"]
+[Round "32"]
+[White "LOYD Samuel"]
+[Black "#2"]
+[Result "1-0"]
+[FEN "1n6/Np1p4/5K2/3k4/1Q6/8/8/8 w - - 0 1"]
+
+1. Nc8 Kc6
+(1. ... Nc6 2. Nb6#)
+(1. ... Na6 2. Ne7#)
+2. Qc4#   1-0
+
+[Event "Musical World"]
+[Site "?"]
+[Date "1859.??.??"]
+[Round "33"]
+[White "LOYD Samuel"]
+[Black "#2"]
+[Result "1-0"]
+[FEN "4Q3/4PPr1/6k1/6P1/5pPp/8/q5n1/5b1K w - - 0 1"]
+
+1. Qh8 Kxf7
+(1. ... Rh7 2. Qf6#)
+(1. ... Kxg5 2. Qxg7#)
+(1. ... Rg8 2. Qxg8#)
+(1. ... Qa1 2. Qh5#)
+(1. ... Qxf7 2. Qh6#)
+2. e8=Q#   1-0
+
+[Event "Philadelphia Evening Bulletin"]
+[Site "?"]
+[Date "1859.??.??"]
+[Round "34"]
+[White "LOYD Samuel"]
+[Black "#2"]
+[Result "1-0"]
+[FEN "1q6/1P1p4/3Rp3/5N2/6P1/6P1/1R6/Q4K1k w - - 0 1"]
+
+1. Qa8 Qc8
+(1. ... Qxb7 2. Qxb7#)
+(1. ... Qh8 2. Qxh8#)
+(1. ... Qd8 2. b8=Q#)
+(1. ... Qa7 2. Qh8#)
+(1. ... e5 2. Rh6#)
+2. bxc8=Q#   1-0
+
+[Event "The Gambit"]
+[Site "?"]
+[Date "1859.??.??"]
+[Round "35"]
+[White "LOYD Samuel"]
+[Black "#2"]
+[Result "1-0"]
+[FEN "5K2/8/8/8/8/4N1pQ/5pr1/5qk1 w - - 0 1"]
+
+1. Ke7 Rh2
+(1. ... Qa1 2. Qxg2#)
+2. Qxf1#   1-0
+
+[Event "The Gambit"]
+[Site "?"]
+[Date "1859.??.??"]
+[Round "36"]
+[White "LOYD Samuel"]
+[Black "#2"]
+[Result "1-0"]
+[FEN "8/8/8/8/3Q4/8/p1N1p1p1/r1k1rbK1 w - - 0 1"]
+
+1. Qc3 Kb1
+(1. ... Kd1 2. Ne3#)
+2. Na3#   1-0
+
+[Event "The Gambit"]
+[Site "?"]
+[Date "1859.??.??"]
+[Round "37"]
+[White "LOYD Samuel"]
+[Black "#2"]
+[Result "1-0"]
+[FEN "8/5n2/8/Q5N1/5kp1/1R6/8/2K5 w - - 0 1"]
+
+1. Re3 Kxe3
+(1. ... Ne5 2. Qxe5#)
+(1. ... g3 2. Re4#)
+(1. ... Nd6 2. Qe5#)
+2. Qd2#   1-0
+
+[Event "Musical World"]
+[Site "?"]
+[Date "1860.??.??"]
+[Round "38"]
+[White "LOYD Samuel"]
+[Black "#2"]
+[Result "1-0"]
+[FEN "7R/8/8/8/6pq/7k/4Np1r/5KbQ w - - 0 1"]
+
+1. Qa8 g3
+(1. ... Rh1 2. Qg2#)
+(1. ... Rg2 2. Qxg2#)
+(1. ... Qxh8 2. Qxh8#)
+(1. ... Qh5 2. Rxh5#)
+(1. ... Qh6 2. Rxh6#)
+(1. ... Qh7 2. Rxh7#)
+2. Qc8#   1-0
+
+[Event "Musical World"]
+[Site "?"]
+[Date "1860.??.??"]
+[Round "39"]
+[White "LOYD Samuel"]
+[Black "#2"]
+[Result "1-0"]
+[FEN "3B1n2/KPpq1nN1/3p4/1B1p4/2pkp3/1R1NpR2/2PP3Q/2b2b2 w - - 0 1"]
+
+1. Qxd6 exf3
+(1. ... c5 2. Qxc5#)
+(1. ... Ne5 2. Qxe5#)
+(1. ... exd3 2. Rf4#)
+(1. ... cxd6 2. Bb6#)
+(1. ... Qf5 2. Nxf5#)
+(1. ... c3 2. dxc3#)
+(1. ... c3 2. Qb4#)
+(1. ... Qc8 2. Qc5#)
+(1. ... Ng5 2. Qe5# {2. Qf6#})
+(1. ... c3 2. Rb4#)
+(1. ... Ng5 2. Bf6#)
+(1. ... Qc6 2. Nf5#)
+(1. ... Bxd3 2. c3#)
+(1. ... Ba3 2. dxe3#)
+2. Qf4#   1-0
+
+[Event "Musical World"]
+[Site "?"]
+[Date "1860.??.??"]
+[Round "40"]
+[White "LOYD Samuel"]
+[Black "#2"]
+[Result "1-0"]
+[FEN "8/8/3p1p2/1N2p3/4kNQ1/5n2/2K3B1/8 w - - 0 1"]
+
+1. Bh1 exf4
+(1. ... d5 2. Ng2#)
+(1. ... Ke3 2. Qxf3#)
+2. Qe6#   1-0
+
+[Event "Le Sphinx"]
+[Site "?"]
+[Date "1866.??.??"]
+[Round "41"]
+[White "LOYD Samuel"]
+[Black "#2"]
+[Result "1-0"]
+[FEN "3brrb1/8/1P6/Q5p1/2q1k1P1/pR2pN2/K1P1NRPB/1B6 w - - 0 1"]
+
+1. Qc5 Qd4
+(1. ... Re5 2. Qxe5#)
+(1. ... Rf5 2. Qxf5#)
+(1. ... Qxc2+ 2. Bxc2#)
+(1. ... exf2 2. Nd2#)
+(1. ... Rf4 2. Ng3#)
+(1. ... Qc3 2. Nxc3#)
+(1. ... Qxb3+ 2. cxb3#)
+(1. ... Qd3 2. cxd3#)
+(1. ... Rxf3 2. gxf3#)
+(1. ... Qa6 2. Qd4#)
+(1. ... Be6 2. Qe5#)
+(1. ... Bf6 2. Qf5#)
+(1. ... Re6 2. Qxc4#)
+(1. ... Qd5 2. Qxe3#)
+(1. ... Qa4 2. Nc3#)
+(1. ... Re7 2. Nxg5#)
+(1. ... Qa4 2. c3#)
+(1. ... Qa4 2. c4#)
+2. Qxd4#   1-0
+
+[Event "Le Sphinx"]
+[Site "?"]
+[Date "1866.??.??"]
+[Round "42"]
+[White "LOYD Samuel"]
+[Black "#2"]
+[Result "1-0"]
+[FEN "3K4/5N2/2B2p2/3R4/4kP2/4P3/1B1q4/5Q2 w - - 0 1"]
+
+1. Bc1 Qg2
+(1. ... Qa5+ 2. Rxa5#)
+(1. ... Qb4 2. Qg2#)
+(1. ... Qb4 2. Qh1#)
+(1. ... Qb2 2. Ra5# {2. Rb5#})
+(1. ... Qb2 2. Rc5#)
+(1. ... Kxe3 2. Rd3#)
+(1. ... Qa2 2. Re5#)
+(1. ... Qb2 2. Rg5# {2. Rh5#})
+(1. ... Qa2 2. Nd6#)
+2. Qxg2#   1-0
+
+[Event "?"]
+[Site " Y197726"]
+[Date "1867.??.??"]
+[Round "43"]
+[White "LOYD Samuel"]
+[Black "#2"]
+[Result "1-0"]
+[FEN "K7/8/8/4Q3/8/4R3/4rN2/1N2k3 w - - 0 1"]
+
+1. Nd2 Kxd2
+(1. ... Kxf2 2. Qg3#)
+(1. ... Rxe3 2. Qxe3#)
+2. Qc3#   1-0
+
+[Event "La Strat�gie"]
+[Site "?"]
+[Date "1867.??.??"]
+[Round "44"]
+[White "LOYD Samuel"]
+[Black "#2"]
+[Result "1-0"]
+[FEN "1n1k2q1/1Q2p3/4p1B1/6N1/8/8/8/3K4 w - - 0 1"]
+
+1. Be8 Kxe8
+(1. ... Nd7 2. Qxd7#)
+(1. ... Qxe8 2. Nxe6#)
+(1. ... Na6 2. Qd7#)
+(1. ... Qf7 2. Qxb8#)
+2. Qc8#   1-0
+
+[Event "La Strategie"]
+[Site "?"]
+[Date "1867.??.??"]
+[Round "45"]
+[White "LOYD Samuel"]
+[Black "#2"]
+[Result "1-0"]
+[FEN "5R2/1N3p2/3pk3/6PR/3Q4/B3K3/8/8 w - - 0 1"]
+
+1. Qg4+ Ke7
+(1. ... f5 2. gxf6#)
+(1. ... Kd5 2. Qe4#)
+2. Bxd6#   1-0
+
+[Event "La Strategie"]
+[Site "?"]
+[Date "1867.??.??"]
+[Round "46"]
+[White "LOYD Samuel"]
+[Black "#2"]
+[Result "1-0"]
+[FEN "2K3Qb/4P2r/4Nk2/8/8/5NB1/8/8 w - - 0 1"]
+
+1. Nf4 Rf7
+(1. ... Kxe7 2. Nd5#)
+(1. ... Kf5 2. Qe6#)
+(1. ... Rh1 2. Qf8#)
+(1. ... Kf5 2. Qg6#)
+2. Qg5#   1-0
+
+[Event "American Chess Nuts"]
+[Site "?"]
+[Date "1868.??.??"]
+[Round "47"]
+[White "LOYD Samuel"]
+[Black "#2"]
+[Result "1-0"]
+[FEN "6R1/8/7K/8/8/7p/5RPk/Q3B3 w - - 0 1"]
+
+1. Qa8 hxg2
+(1. ... Kg1 2. gxh3#)
+2. Qxg2#   1-0
+
+[Event "American Chess Nuts"]
+[Site "?"]
+[Date "1868.??.??"]
+[Round "48"]
+[White "LOYD Samuel"]
+[Black "#2"]
+[Result "1-0"]
+[FEN "1B3n2/7n/P1k5/R1PN1Q2/7q/8/1pR3P1/1K1B4 w - - 0 1"]
+
+1. Be5 Ne6
+(1. ... Qb4 2. Nxb4#)
+(1. ... Qe7 2. Nxe7#)
+(1. ... Kxd5 2. c6#)
+(1. ... Nd7 2. Qe6#)
+(1. ... Qd8 2. Nb4#)
+(1. ... Qa4 2. Ne7#)
+2. Qxe6#   1-0
+
+[Event "American Chess Nuts"]
+[Site "?"]
+[Date "1868.??.??"]
+[Round "49"]
+[White "LOYD Samuel"]
+[Black "#2"]
+[Result "1-0"]
+[FEN "q1r1n1bK/6PP/r7/p2p4/B3Q3/N7/kBR5/3N4 w - - 0 1"]
+
+1. Rc6 dxe4
+(1. ... Bxh7 2. Qxd5#)
+(1. ... d4 2. hxg8=Q#)
+(1. ... Qa7 2. Qb1#)
+2. hxg8=B#   1-0
+
+[Event "American Chess Nuts"]
+[Site "?"]
+[Date "1868.??.??"]
+[Round "50"]
+[White "LOYD Samuel"]
+[Black "#2"]
+[Result "1-0"]
+[FEN "1Q6/8/n6B/4b3/1r5p/3P1N2/5k1P/3R2NK w - - 0 1"]
+
+1. Nd4 Rb2
+(1. ... Bf4 2. Qxf4#)
+(1. ... Bxh2 2. Qxh2#)
+(1. ... h3 2. Nxh3#)
+(1. ... Ra4 2. Qb2#)
+(1. ... Bf6 2. Qf4#)
+(1. ... Ra4 2. Nh3#)
+2. Qxb2#   1-0
+
+[Event "American Cronicle"]
+[Site "?"]
+[Date "1868.??.??"]
+[Round "51"]
+[White "LOYD Samuel"]
+[Black "#2"]
+[Result "1-0"]
+[FEN "5K2/2BP2nN/4kN2/8/3r4/8/6Q1/8 w - - 0 1"]
+
+1. Bf4 Nf5
+(1. ... Rd5 2. Qxd5#)
+(1. ... Re4 2. Qxe4#)
+(1. ... Ra4 2. Qd5#)
+(1. ... Rd1 2. Qe4#)
+(1. ... Kf5 2. Qg4#)
+(1. ... Ne8 2. Qh3#)
+2. Qg8#   1-0
+
+[Event "Wilke's Spirit of the Thimes"]
+[Site "?"]
+[Date "1868.??.??"]
+[Round "52"]
+[White "LOYD Samuel"]
+[Black "#2"]
+[Result "1-0"]
+[FEN "8/2R5/4r3/3rk1P1/1Q1N4/1N1P2K1/8/8 w - - 0 1"]
+
+1. Qb8 Kd6
+(1. ... Rc5 2. Rxc5#)
+(1. ... Re7 2. Rxe7#)
+(1. ... Kd6 2. Ra7# {2. Rb7#})
+(1. ... Ra5 2. Rc5#)
+(1. ... Ra6 2. Re7#)
+(1. ... Kd6 2. Rf7#)
+(1. ... Kd6 2. Rg7#)
+2. Rh7#   1-0
+
+[Event "Chess Record"]
+[Site "?"]
+[Date "1876.??.??"]
+[Round "53"]
+[White "LOYD Samuel"]
+[Black "#2"]
+[Result "1-0"]
+[FEN "8/7K/2Rn1N2/6k1/6N1/2n4p/8/4QR2 w - - 0 1"]
+
+1. Nf2 Kh4
+(1. ... h2 2. Nh3#)
+(1. ... Kf4 2. Nxh3#)
+2. N2e4#   1-0
+
+[Event "Detroit Free Press"]
+[Site "?"]
+[Date "1876.??.??"]
+[Round "54"]
+[White "LOYD Samuel"]
+[Black "#2"]
+[Result "1-0"]
+[FEN "8/5Q1N/2R5/4p3/p2pk3/R1p4P/5B2/4K3 w - - 0 1"]
+
+1. Qb7 Kd3
+(1. ... Kd5 2. Nf6#)
+(1. ... Kf3 2. Rf6#)
+2. Qb1#   1-0
+
+[Event "American Chess Journal"]
+[Site "?"]
+[Date "1877.??.??"]
+[Round "55"]
+[White "LOYD Samuel"]
+[Black "#2"]
+[Result "1-0"]
+[FEN "3N4/2p3B1/5NQ1/2k5/Rn3P2/8/4K3/8 w - - 0 1"]
+
+1. Qb1 Nc6
+(1. ... Nd5 2. Ne4#)
+(1. ... Kb5 2. Qxb4#)
+(1. ... Kd6 2. Bf8#)
+2. Nb7#   1-0
+
+[Event "Detroit Free Press"]
+[Site "?"]
+[Date "1877.??.??"]
+[Round "56"]
+[White "LOYD Samuel"]
+[Black "#2"]
+[Result "1-0"]
+[FEN "n6k/7b/Q4Kp1/8/8/8/8/8 w - - 0 1"]
+
+1. Qa1 Bg8
+(1. ... Kg8 2. Qxa8#)
+(1. ... Nb6 2. Kf7#)
+2. Kxg6#   1-0
+
+[Event "Detroit Free Press"]
+[Site "?"]
+[Date "1877.??.??"]
+[Round "57"]
+[White "LOYD Samuel"]
+[Black "#2"]
+[Result "1-0"]
+[FEN "8/6K1/3B4/3k4/3N4/3N4/3Q4/1R3R2 w - - 0 1"]
+
+1. Nf5 Ke4
+(1. ... Kc4 2. Ne5#)
+2. Nc5#   1-0
+
+[Event "Hartford Globe"]
+[Site "?"]
+[Date "1877.??.??"]
+[Round "58"]
+[White "LOYD Samuel"]
+[Black "#2"]
+[Result "1-0"]
+[FEN "8/8/8/1K3pr1/5R2/5QRp/6qp/7k w - - 0 1"]
+
+1. Qa8 Kg1
+(1. ... Qb7+ 2. Qxb7#)
+(1. ... Qc6+ 2. Qxc6#)
+(1. ... Qd5+ 2. Qxd5#)
+(1. ... Qf3 2. Qxf3#)
+(1. ... Qe4 2. Rf1#)
+2. Qa1#   1-0
+
+[Event "Hartford Globe"]
+[Site "?"]
+[Date "1877.??.??"]
+[Round "59"]
+[White "LOYD Samuel"]
+[Black "#2"]
+[Result "1-0"]
+[FEN "8/8/8/1K3p2/5RR1/5Q1p/6qp/7k w - - 0 1"]
+
+1. Qa8 Kg1
+(1. ... Qb7+ 2. Qxb7#)
+(1. ... Qc6+ 2. Qxc6#)
+(1. ... Qd5+ 2. Qxd5#)
+(1. ... Qf3 2. Qxf3#)
+(1. ... Qe4 2. Rf1#)
+2. Qa1#   1-0
+
+[Event "Sporting New Yorker"]
+[Site "?"]
+[Date "1877.??.??"]
+[Round "60"]
+[White "LOYD Samuel"]
+[Black "#2"]
+[Result "1-0"]
+[FEN "1B6/3Q4/6Rn/8/4k3/1P2pq2/K7/7B w - - 0 1"]
+
+1. Rg2 Qe2+
+(1. ... e2 2. Rxe2#)
+(1. ... Qf2+ 2. Rxf2#)
+(1. ... Qg3 2. Rxg3#)
+(1. ... Qg4 2. Rxg4#)
+(1. ... Ng4 2. Rxg4#)
+(1. ... Qxg2+ 2. Bxg2#)
+(1. ... Qd1 2. Rg4#)
+2. Rxe2#   1-0
+
+[Event "American Problem Association"]
+[Site "?"]
+[Date "1878.??.??"]
+[Round "61"]
+[White "LOYD Samuel"]
+[Black "#2"]
+[Result "1-0"]
+[FEN "Q2b1r2/3P2B1/1P2P1q1/R7/1k2N2R/1B1r1PP1/2p5/4n2K w - - 0 1"]
+
+1. Rf5 Kxb3
+(1. ... Rxb3 2. Ng5#)
+(1. ... c1=Q 2. Qa4#)
+2. Nc5#   1-0
+
+[Event "American Union"]
+[Site "?"]
+[Date "1878.??.??"]
+[Round "62"]
+[White "LOYD Samuel"]
+[Black "#2"]
+[Result "1-0"]
+[FEN "8/4Q3/4p3/R1b1k3/1N5P/4Np2/1K3P2/8 w - - 0 1"]
+
+1. Qh7 Kd6
+(1. ... Kd4 2. Nc6#)
+(1. ... Kf4 2. Nd3#)
+(1. ... Kf6 2. Ng4#)
+2. Nc4#   1-0
+
+[Event "Cleveland Voice"]
+[Site "?"]
+[Date "1878.??.??"]
+[Round "63"]
+[White "LOYD Samuel"]
+[Black "#2"]
+[Result "1-0"]
+[FEN "8/8/8/3p4/3R4/K1p5/1pN4R/1kb4Q w - - 0 1"]
+
+1. Rh8 Kxc2 2. Qh7#   1-0
+
+[Event "Danbury News"]
+[Site "?"]
+[Date "1878.??.??"]
+[Round "64"]
+[White "LOYD Samuel"]
+[Black "#2"]
+[Result "1-0"]
+[FEN "3R3K/4ppp1/2p5/1nN1kpQN/8/r7/b4rP1/3R2n1 w - - 0 1"]
+
+1. Nb3 Ke6
+(1. ... Ke4 2. Qxe7#)
+2. Qe3#   1-0
+
+[Event "Detroit Free Press"]
+[Site "?"]
+[Date "1878.??.??"]
+[Round "65"]
+[White "LOYD Samuel"]
+[Black "#2"]
+[Result "1-0"]
+[FEN "8/2N5/8/k2NQ3/P1R5/Pp6/n2p4/1K1B4 w - - 0 1"]
+
+1. Qa1 Nc1
+(1. ... Nc3+ 2. Qxc3#)
+(1. ... b2 2. Rc5#)
+(1. ... Nb4 2. axb4#)
+2. Qc3#   1-0
+
+[Event "Hartford Globe"]
+[Site "?"]
+[Date "1878.??.??"]
+[Round "66"]
+[White "LOYD Samuel"]
+[Black "#2"]
+[Result "1-0"]
+[FEN "8/8/8/1B6/2r4p/1R5K/k1N5/1N2Q3 w - - 0 1"]
+
+1. Na1 Rc3+
+(1. ... Rc1 2. Qa5#)
+(1. ... Kxa1 2. Nc3#)
+2. Nxc3#   1-0
+
+[Event "Huddersfeld Magazine"]
+[Site "?"]
+[Date "1878.??.??"]
+[Round "67"]
+[White "LOYD Samuel"]
+[Black "#2"]
+[Result "1-0"]
+[FEN "3b4/2p2K2/4N3/2Pk1p2/Q3p3/3NR3/b2p2n1/3B4 w - - 0 1"]
+
+1. Ke8 Kxe6
+(1. ... Bc4 2. Qd7#)
+(1. ... c6 2. Qxa2#)
+(1. ... f4 2. Qxe4#)
+(1. ... Bb1 2. Bb3#)
+(1. ... exd3 2. Bf3#)
+(1. ... Bb3 2. Bxb3#)
+(1. ... Nf4 2. Nexf4#)
+(1. ... Ne1 2. Nef4#)
+(1. ... Be7 2. Nxc7#)
+2. Qc6#   1-0
+
+[Event "Paris Tournament"]
+[Site "3� Premio"]
+[Date "1878.??.??"]
+[Round "68"]
+[White "LOYD Samuel"]
+[Black "#2"]
+[Result "1-0"]
+[FEN "7n/rpQ5/8/1RN2p2/8/1R4rq/p1k2N2/K1B1n2b w - - 0 1"]
+
+1. Rf3 b6
+(1. ... Nd3 2. Ncxd3#)
+(1. ... Ra4 2. Nxa4#)
+(1. ... Ra6 2. Nxa6#)
+(1. ... Qg2 2. Na4# {2. Na6#})
+(1. ... Kxc1 2. Nb3#)
+(1. ... Qf1 2. Ncd3#)
+(1. ... Qg2 2. Nce4#)
+(1. ... Qg2 2. Nd7#)
+(1. ... Qg2 2. Ne6#)
+(1. ... Qg2 2. Nxb7#)
+2. Nb7#   1-0
+
+[Event "Philadelphia Progress"]
+[Site "?"]
+[Date "1878.??.??"]
+[Round "69"]
+[White "LOYD Samuel"]
+[Black "#2"]
+[Result "1-0"]
+[FEN "8/8/3RPn1R/2Pnk3/1P4Q1/3b2NN/B2P1P2/4K3 w - - 0 1"]
+
+1. Qd1 Kd4
+(1. ... Nd7 2. Rxd5#)
+(1. ... Ba6 2. d4#)
+(1. ... Nb6 2. f4#)
+2. Qa1#   1-0
+
+[Event "Unpublished"]
+[Site "?"]
+[Date "1878.??.??"]
+[Round "70"]
+[White "LOYD Samuel"]
+[Black "#2"]
+[Result "1-0"]
+[FEN "8/7K/8/5R2/3N2R1/5Q1p/2N3qp/7k w - - 0 1"]
+
+1. Qa8 Qb7+
+(1. ... Qc6 2. Qxc6#)
+(1. ... Qd5 2. Qxd5#)
+(1. ... Qe4 2. Qxe4#)
+(1. ... Qf3 2. Qxf3#)
+(1. ... Kg1 2. Qa1#)
+(1. ... Qc6 2. Rf1#)
+2. Qxb7#   1-0
+
+[Event "Chicago Times"]
+[Site "?"]
+[Date "1879.??.??"]
+[Round "71"]
+[White "LOYD Samuel"]
+[Black "#2"]
+[Result "1-0"]
+[FEN "8/4p3/N1P1pR2/4k3/8/4K3/5QR1/8 w - - 0 1"]
+
+1. Kf3 Kxf6
+(1. ... Kd5 2. Qc5#)
+2. Ke4#   1-0
+
+[Event "Detroit Free Press"]
+[Site "?"]
+[Date "1879.??.??"]
+[Round "72"]
+[White "LOYD Samuel"]
+[Black "#2"]
+[Result "1-0"]
+[FEN "b1K1N3/1n6/5Q1b/1pk3P1/8/3P4/4R1r1/1R5B w - - 0 1"]
+
+1. Rf2 Nd6+
+(1. ... Rxf2 2. Qxf2#)
+(1. ... Na5 2. Qd6#)
+(1. ... Rg1 2. Rc2#)
+(1. ... Kd5 2. Rf5#)
+2. Qxd6#   1-0
+
+[Event "St. Louis Globe Democrat"]
+[Site "?"]
+[Date "1879.??.??"]
+[Round "73"]
+[White "LOYD Samuel"]
+[Black "#2"]
+[Result "1-0"]
+[FEN "R3n2K/4k3/7N/P3BB2/2N5/8/8/8 w - - 0 1"]
+
+1. Bg3 Kf8
+(1. ... Kf6 2. Bh4#)
+2. Bd6#   1-0
+
+[Event "St.Louis Globe Democrat"]
+[Site "?"]
+[Date "1879.??.??"]
+[Round "74"]
+[White "LOYD Samuel"]
+[Black "#2"]
+[Result "1-0"]
+[FEN "8/7p/b1NNpk2/r7/7p/2n2B2/8/5QRK w - - 0 1"]
+
+1. Nb5 Nd1
+(1. ... Nd5 2. Bxd5#)
+(1. ... Ne2 2. Bxe2#)
+(1. ... Ne4 2. Bxe4#)
+(1. ... h5 2. Bxh5#)
+(1. ... Ra1 2. Bd1#)
+(1. ... Kf5 2. Bd5#)
+(1. ... Ra2 2. Be2#)
+(1. ... Ra3 2. Be4#)
+(1. ... Kf7 2. Bh5#)
+2. Bxd1#   1-0
+
+[Event "5th American Chess Congress"]
+[Site "?"]
+[Date "1880.??.??"]
+[Round "75"]
+[White "LOYD Samuel"]
+[Black "#2"]
+[Result "1-0"]
+[FEN "2R5/BpNnp3/qp4RK/p1k1p3/7p/PnN1p3/2Q4r/3r3b w - - 0 1"]
+
+1. Rg2 Qb5
+(1. ... Kc4 2. Ne2#)
+(1. ... Kc4 2. N3b5#)
+(1. ... Kc6 2. N7b5#)
+(1. ... Kd6 2. Ne4#)
+(1. ... Kd4 2. Ne6#)
+(1. ... Kc6 2. Ne8#)
+2. N3xb5#   1-0
+
+[Event "American Chess Journal"]
+[Site "?"]
+[Date "1880.??.??"]
+[Round "76"]
+[White "LOYD Samuel"]
+[Black "#2"]
+[Result "1-0"]
+[FEN "2B2B2/8/1pkP4/1p2Q3/3P4/8/nKN4p/5R1q w - - 0 1"]
+
+1. Qe2 b4
+(1. ... Qd5 2. Qe8#)
+(1. ... Qg1 2. Qf3#)
+(1. ... Qe4 2. Qxe4#)
+(1. ... Qf3 2. Qxf3#)
+(1. ... Qg2 2. Qxg2#)
+(1. ... Kd5 2. Bb7#)
+(1. ... Nb4 2. Nxb4#)
+(1. ... Qg1 2. Qe4#)
+(1. ... Nc1 2. Nb4#)
+2. Qc4#   1-0
+
+[Event "Baltimore Herald"]
+[Site "?"]
+[Date "1880.??.??"]
+[Round "77"]
+[White "LOYD Samuel"]
+[Black "#2"]
+[Result "1-0"]
+[FEN "8/8/8/8/7p/4PQpp/R5q1/KR4Bk w - - 0 1"]
+
+1. Qa8 h2
+(1. ... Qb7 2. Bh2#)
+2. Bf2#   1-0
+
+[Event "Baltimore Herald"]
+[Site "?"]
+[Date "1880.??.??"]
+[Round "78"]
+[White "LOYD Samuel"]
+[Black "#2"]
+[Result "1-0"]
+[FEN "8/8/8/8/1BB5/NN6/krQ5/7K w - - 0 1"]
+
+1. Qh7 Rb1+
+(1. ... Rc2 2. Qxc2#)
+(1. ... Rh2+ 2. Qxh2#)
+(1. ... Rd2 2. Qb1#)
+2. Qxb1#   1-0
+
+[Event "Buffalo Center"]
+[Site "?"]
+[Date "1880.??.??"]
+[Round "79"]
+[White "LOYD Samuel"]
+[Black "#2"]
+[Result "1-0"]
+[FEN "2R5/8/3k4/3N2p1/4K1Q1/8/8/8 w - - 0 1"]
+
+1. Kf5 Kd7
+(1. ... Kxd5 2. Qd1#)
+2. Ke5#   1-0
+
+[Event "Detroit Free Press"]
+[Site "?"]
+[Date "1880.??.??"]
+[Round "80"]
+[White "LOYD Samuel"]
+[Black "#2"]
+[Result "1-0"]
+[FEN "5B2/3n4/2Ppp3/3kN1Q1/1R6/3P4/2K5/8 w - - 0 1"]
+
+1. Qd8 Kxe5
+(1. ... dxe5 2. Qxd7#)
+(1. ... Kc5 2. Qa5#)
+(1. ... Nb6 2. Qxd6#)
+2. Qg5#   1-0
+
+[Event "St Louis Globe Democrat"]
+[Site "?"]
+[Date "1880.??.??"]
+[Round "81"]
+[White "LOYD Samuel"]
+[Black "#2"]
+[Result "1-0"]
+[FEN "8/4R3/8/8/1k6/R1NK4/8/5Q2 w - - 0 1"]
+
+1. Qf8 Kxa3
+(1. ... Kc5 2. Re6#)
+2. Rb7#   1-0
+
+[Event "St.Louis Globe Democrat"]
+[Site "?"]
+[Date "1880.??.??"]
+[Round "82"]
+[White "LOYD Samuel"]
+[Black "#2"]
+[Result "1-0"]
+[FEN "2bR3Q/pkb5/N7/1P6/2N5/8/6K1/8 w - - 0 1"]
+
+1. Qh1 Bg3
+(1. ... Bh2 2. Kxh2#)
+(1. ... Bh3+ 2. Kxh3#)
+(1. ... Ka8 2. Kf1#)
+(1. ... Ka8 2. Kf2#)
+(1. ... Ka8 2. Kg1#)
+(1. ... Ba5 2. Kg3# {2. Kh2#})
+(1. ... Bd7 2. Nc5#)
+2. Kxg3#   1-0
+
+[Event "ChessStrategy"]
+[Site "?"]
+[Date "1881.??.??"]
+[Round "83"]
+[White "LOYD Samuel"]
+[Black "#2"]
+[Result "1-0"]
+[FEN "5N2/2n1n3/2p5/4p3/1N1k4/1KR2B2/1Pp5/2r1B1b1 w - - 0 1"]
+
+1. Bh4 Be3
+(1. ... c5 2. Rd3#)
+(1. ... Bh2 2. Bf2#)
+(1. ... e4 2. Bf6#)
+(1. ... Bf2 2. Bxf2#)
+(1. ... Ne6 2. Nxe6#)
+(1. ... Na6 2. Ne6#)
+(1. ... Ra1 2. Nxc2#)
+(1. ... Nc8 2. Nxc6#)
+2. Rc4#   1-0
+
+[Event "Detroit Free Press"]
+[Site "?"]
+[Date "1881.??.??"]
+[Round "84"]
+[White "LOYD Samuel"]
+[Black "#2"]
+[Result "1-0"]
+[FEN "8/8/7p/4K1kb/8/7R/7Q/8 w - - 0 1"]
+
+1. Qa2 Kg4
+(1. ... Kg6 2. Qg8#)
+2. Qg2#   1-0
+
+[Event "Detroit Free Press"]
+[Site "?"]
+[Date "1884.??.??"]
+[Round "85"]
+[White "LOYD Samuel"]
+[Black "#2"]
+[Result "1-0"]
+[FEN "8/4N3/8/4p1P1/2K4p/3B1k1p/R6P/2Q5 w - - 0 1"]
+
+1. Bc2 Kg4
+(1. ... Ke2 2. Be4#)
+2. Bd1#   1-0
+
+[Event "Detroit Free Press"]
+[Site "?"]
+[Date "1885.??.??"]
+[Round "86"]
+[White "LOYD Samuel"]
+[Black "#2"]
+[Result "1-0"]
+[FEN "n2KQb2/1p1B2R1/1p1k1r2/p4R2/N5p1/1p5p/5P1q/3r4 w - - 0 1"]
+
+1. Qe3 b2
+(1. ... b5 2. Qc5#)
+(1. ... Bxg7 2. Qe7#)
+(1. ... Qh1 2. Qg3#)
+(1. ... Nc7 2. Qxb6#)
+(1. ... Rd2 2. Qxd2#)
+(1. ... Rd3 2. Qxd3#)
+(1. ... Rd4 2. Qxd4#)
+(1. ... Qe5 2. Qxe5#)
+(1. ... Re6 2. Qxe6#)
+(1. ... Be7+ 2. Qxe7#)
+(1. ... Qf4 2. Qxf4#)
+(1. ... Qg3 2. Qxg3#)
+(1. ... Rh6 2. Qxh6#)
+(1. ... Rd5 2. Rxf6#)
+(1. ... Rg6 2. Rxg6#)
+(1. ... Ra1 2. Qd2# {2. Qd3#, Qd4#})
+(1. ... Qg1 2. Qe5#)
+(1. ... Rf7 2. Qe6#)
+(1. ... Qg1 2. Qf4#)
+2. Qa3#   1-0
+
+[Event "Sunny South"]
+[Site "?"]
+[Date "1885.??.??"]
+[Round "87"]
+[White "LOYD Samuel"]
+[Black "#2"]
+[Result "1-0"]
+[FEN "5Q2/5B1k/6r1/6p1/6N1/6K1/8/8 w - - 0 1"]
+
+1. Qa8 Rg7
+(1. ... Rg8 2. Qxg8#)
+(1. ... Kg7 2. Qg8#)
+2. Qh1#   1-0
+
+[Event "Providence journal"]
+[Site "?"]
+[Date "1886.??.??"]
+[Round "88"]
+[White "LOYD Samuel"]
+[Black "#2"]
+[Result "1-0"]
+[FEN "8/8/2K5/6Q1/2B1k3/2P2b1R/3prn2/3N4 w - - 0 1"]
+
+1. Bb3 Kd3+
+(1. ... Ng4 2. Bc2#)
+(1. ... Bg2 2. Bd5#)
+(1. ... Re1 2. Nxf2#)
+2. Qd5#   1-0
+
+[Event "St.louis Globe Democrat"]
+[Site "?"]
+[Date "1886.??.??"]
+[Round "89"]
+[White "LOYD Samuel"]
+[Black "#2"]
+[Result "1-0"]
+[FEN "8/5p2/3p1Q1K/B7/2B4N/3rk1N1/2b2p2/1R2nr2 w - - 0 1"]
+
+1. Ne2 Ng2
+(1. ... Rd4 2. Qxd4#)
+(1. ... Nf3 2. Qxf3#)
+(1. ... Ra3 2. Qd4#)
+(1. ... d5 2. Qe5#)
+(1. ... Ke4 2. Qe7#)
+(1. ... Ke4 2. Qf4#)
+2. Qf3#   1-0
+
+[Event "?"]
+[Site " Y197941"]
+[Date "1887.??.??"]
+[Round "90"]
+[White "LOYD Samuel"]
+[Black "#2"]
+[Result "1-0"]
+[FEN "8/2K2p2/4kp2/1Q4p1/8/3P4/8/8 w - - 0 1"]
+
+1. Qb4 Kd5
+(1. ... Ke5 2. Qe4#)
+2. Qd6#   1-0
+
+[Event "American Chess Nuts"]
+[Site "?"]
+[Date "1887.??.??"]
+[Round "91"]
+[White "LOYD Samuel"]
+[Black "#2"]
+[Result "1-0"]
+[FEN "7B/6R1/3p4/3p4/3k2p1/6K1/2R5/1B6 w - - 0 1"]
+
+1. Rb2 Kc3
+(1. ... Ke3 2. Re7#)
+(1. ... Ke5 2. Rg6#)
+2. Rc7#   1-0
+
+[Event "TurfField and Farm"]
+[Site "?"]
+[Date "1887.??.??"]
+[Round "92"]
+[White "LOYD Samuel"]
+[Black "#2"]
+[Result "1-0"]
+[FEN "K7/8/8/RNn2b1R/3nkb2/8/BB3P2/2NQ4 w - - 0 1"]
+
+1. Qg4 Nc2
+(1. ... Ke5 2. Qxf5#)
+(1. ... Bc8 2. Bd5#)
+(1. ... Bc8 2. Nc3#)
+(1. ... Bc8 2. Nd6#)
+2. Qg2#   1-0
+
+[Event "N.Y.Mail and Express"]
+[Site "?"]
+[Date "1889.??.??"]
+[Round "93"]
+[White "LOYD Samuel"]
+[Black "#2"]
+[Result "1-0"]
+[FEN "8/1P1PpP1K/1P2k3/1P6/7P/3NBN2/3R3P/4QR2 w - - 0 1"]
+
+1. Qe2 Kd5
+(1. ... Kf6 2. Nd4#)
+(1. ... Kd6 2. Nf4#)
+(1. ... Kf5 2. Ng5#)
+2. Nc5#   1-0
+
+[Event "New York Sunday Herald"]
+[Site "?"]
+[Date "1889.??.??"]
+[Round "94"]
+[White "LOYD Samuel"]
+[Black "#2"]
+[Result "1-0"]
+[FEN "3r3r/pbp2pbp/1p5q/8/Q6P/B2B1PPN/1R2P1N1/2k1nK1R w - - 0 1"]
+
+1. Bf8 Kxb2
+(1. ... Nc2 2. Qxc2#)
+(1. ... Qd2 2. Rb1#)
+(1. ... Bxb2 2. Bxh6#)
+(1. ... Qc6 2. Qa1#)
+(1. ... Nxd3 2. Qc2#)
+2. Qa3#   1-0
+
+[Event "Buffalo Advertiser"]
+[Site "?"]
+[Date "1890.??.??"]
+[Round "95"]
+[White "LOYD Samuel"]
+[Black "#2"]
+[Result "1-0"]
+[FEN "8/8/4pR2/4N2p/6pk/6R1/4K2P/7Q w - - 0 1"]
+
+1. Qa1 Kg5 2. Nf3#   1-0
+
+[Event "Detroit Free Press"]
+[Site "?"]
+[Date "1890.??.??"]
+[Round "96"]
+[White "LOYD Samuel"]
+[Black "#2"]
+[Result "1-0"]
+[FEN "7Q/6P1/1KB3p1/5p1r/R3bNN1/4p1B1/8/R5qk w - - 0 1"]
+
+1. Ba8 Rxh8
+(1. ... Bxa8 2. Qxa8#)
+(1. ... Rh2 2. Qxh2#)
+(1. ... Rh3 2. Qxh3#)
+(1. ... Rh4 2. Qxh4#)
+(1. ... g5 2. Qxh5#)
+(1. ... Rh6 2. Qxh6#)
+(1. ... Rh7 2. Qxh7#)
+(1. ... Qxa1 2. Rxa1#)
+(1. ... Qb1+ 2. Rxb1#)
+(1. ... Qc1 2. Rxc1#)
+(1. ... Qd1 2. Rxd1#)
+(1. ... Qe1 2. Rxe1#)
+(1. ... Qf1 2. Rxf1#)
+(1. ... Bb7 2. Bxb7#)
+(1. ... Bc6 2. Bxc6#)
+(1. ... Bd5 2. Bxd5#)
+(1. ... fxg4 2. Bxe4#)
+(1. ... Bf3 2. Bxf3#)
+(1. ... Bg2 2. Bxg2#)
+(1. ... e2+ 2. Nf2#)
+2. gxh8=Q#   1-0
+
+[Event "N.Y.Evening Telegram"]
+[Site "?"]
+[Date "1890.??.??"]
+[Round "97"]
+[White "LOYD Samuel"]
+[Black "#2"]
+[Result "1-0"]
+[FEN "Q7/1p2p3/8/1Rp5/K7/8/8/k7 w - - 0 1"]
+
+1. Ka5 b6+
+(1. ... Ka2 2. Kb6#)
+2. Kxb6#   1-0
+
+[Event "Providence Journal"]
+[Site "?"]
+[Date "1890.??.??"]
+[Round "98"]
+[White "LOYD Samuel"]
+[Black "#2"]
+[Result "1-0"]
+[FEN "2n1K3/8/4N3/3pNb2/4k3/3pbp2/8/Q7 w - - 0 1"]
+
+1. Nf7 d4
+(1. ... d2 2. Qb1#)
+(1. ... f2 2. Qh1#)
+(1. ... Bd4 2. Qxd4#)
+(1. ... Nd6+ 2. Nxd6#)
+(1. ... Bc1 2. Qd4#)
+(1. ... Ba7 2. Qe5#)
+(1. ... Na7 2. Nd6#)
+2. Qa8#   1-0
+
+[Event "Mail and Express"]
+[Site "?"]
+[Date "1891.??.??"]
+[Round "99"]
+[White "LOYD Samuel"]
+[Black "#2"]
+[Result "1-0"]
+[FEN "8/8/8/8/3B1N2/4N3/3RpkPR/1K6 w - - 0 1"]
+
+1. Be5 Kg3
+(1. ... Kg1 2. Nh3#)
+(1. ... Ke1 2. Rxe2#)
+2. Nd3#   1-0
+
+[Event "N.Y. Mail & Express"]
+[Site "?"]
+[Date "1891.??.??"]
+[Round "100"]
+[White "LOYD Samuel"]
+[Black "#2"]
+[Result "1-0"]
+[FEN "3q4/3R4/1bn1R3/n7/K1N2N2/B1k1r3/Q7/5b2 w - - 0 1"]
+
+1. Nd6 Nd4
+(1. ... Bb5+ 2. Nxb5#)
+(1. ... Re4+ 2. Nxe4#)
+(1. ... Qa8 2. Qb2#)
+(1. ... Kd4 2. Nb5#)
+(1. ... Rd3 2. Ne4#)
+2. Bb4#   1-0
+
+[Event "Unpublished"]
+[Site "?"]
+[Date "1891.??.??"]
+[Round "101"]
+[White "LOYD Samuel"]
+[Black "#2"]
+[Result "1-0"]
+[FEN "1R6/1p1k1p2/1R3P2/3b4/3K4/6B1/8/3Q4 w - - 0 1"]
+
+1. Qd3 Bc4
+(1. ... Be4 2. Kxe4#)
+(1. ... Ba2 2. Qb5#)
+(1. ... Bc6 2. Qf5#)
+2. Kxc4#   1-0
+
+[Event "City Chess Club"]
+[Site "?"]
+[Date "1892.??.??"]
+[Round "102"]
+[White "LOYD Samuel"]
+[Black "#2"]
+[Result "1-0"]
+[FEN "8/2R5/4Q3/KB6/1P6/pNB2p2/ppkN1p2/q1r1bR2 w - - 0 1"]
+
+1. Nc4 b1=Q
+(1. ... Kxc3 2. Nb6# {2. Ncd2#, Nd6#})
+(1. ... Kd1 2. Ne3#)
+(1. ... Kxc3 2. Ne5#)
+(1. ... Kb1 2. Nxa3#)
+2. Ne3#   1-0
+
+[Event "N.Y.State Chess Assocation"]
+[Site "?"]
+[Date "1892.??.??"]
+[Round "103"]
+[White "LOYD Samuel"]
+[Black "#2"]
+[Result "1-0"]
+[FEN "2q3n1/6nK/3p1rP1/4P1p1/2pk3p/Q3R3/2PN1RBB/1brN4 w - - 0 1"]
+
+1. Rg3 c3
+(1. ... Qc5 2. Qc3#)
+(1. ... Kxe5 2. Qe3#)
+(1. ... Rf3 2. Qxd6#)
+(1. ... Re6 2. Rg4#)
+2. Rd3#   1-0
+
+[Event "N.Y.State Chess Association"]
+[Site "?"]
+[Date "1892.??.??"]
+[Round "104"]
+[White "LOYD Samuel"]
+[Black "#2"]
+[Result "1-0"]
+[FEN "5R2/8/2p3B1/3k1N2/4R3/1K2b3/8/7Q w - - 0 1"]
+
+1. Qa1 Kc5
+(1. ... c5 2. Qa8#)
+(1. ... Bd4 2. Qxd4#)
+(1. ... Kxe4 2. Ne7#)
+(1. ... Bc1 2. Qd4#)
+(1. ... Ba7 2. Qe5# {2. Re5#})
+2. Qa5#   1-0
+
+[Event "N.Y.State Chess Association"]
+[Site "?"]
+[Date "1892.??.??"]
+[Round "105"]
+[White "LOYD Samuel"]
+[Black "#2"]
+[Result "1-0"]
+[FEN "7K/8/8/8/R4pNk/8/1Q6/2BB1N2 w - - 0 1"]
+
+1. Ng3 Kg5
+(1. ... fxg3 2. Nf2#)
+(1. ... Kh3 2. Qh2#)
+2. Qf6#   1-0
+
+[Event "N.Y.State Chess Association"]
+[Site "?"]
+[Date "1892.??.??"]
+[Round "106"]
+[White "LOYD Samuel"]
+[Black "#2"]
+[Result "1-0"]
+[FEN "6r1/6p1/4N2B/4N1R1/8/4k2K/1Q6/8 w - - 0 1"]
+
+1. Qa1 Ke4
+(1. ... Ra8 2. Qe1#)
+(1. ... Kd2 2. Rg2#)
+2. Qd4#   1-0
+
+[Event "N.Y.State Chess Association"]
+[Site "?"]
+[Date "1892.??.??"]
+[Round "107"]
+[White "LOYD Samuel"]
+[Black "#2"]
+[Result "1-0"]
+[FEN "b7/2rR4/QNk5/4Rn2/6B1/3K4/8/6n1 w - - 0 1"]
+
+1. Ra5 Nf3
+(1. ... Ra7 2. Qb5#)
+(1. ... Ne2 2. Bf3#)
+(1. ... Nd4 2. Na4# {2. Nc4#, Nc8#})
+(1. ... Rxd7+ 2. Nd5#)
+(1. ... Nd4 2. Nxa8#)
+2. Bxf3#   1-0
+
+[Event "N.Y.State Chess Association"]
+[Site "?"]
+[Date "1892.??.??"]
+[Round "108"]
+[White "LOYD Samuel"]
+[Black "#2"]
+[Result "1-0"]
+[FEN "4b3/5n1p/8/3Q4/1K6/2B1k2p/R7/6Rn w - - 0 1"]
+
+1. Bb2 Kf2
+(1. ... Ke2 2. Bc1#)
+2. Bd4#   1-0
+
+[Event "N.Y.State Chess Association"]
+[Site "?"]
+[Date "1892.??.??"]
+[Round "109"]
+[White "LOYD Samuel"]
+[Black "#2"]
+[Result "1-0"]
+[FEN "8/4p3/P1Rq1p2/2pk1B2/N1R5/N7/KQ3B2/8 w - - 0 1"]
+
+1. Qb8 Kxc6
+(1. ... e5 2. Rxd6#)
+(1. ... Qxc6 2. Nc3#)
+(1. ... e5 2. Qxd6#)
+(1. ... Qc7 2. R4xc5#)
+(1. ... Ke5 2. R6xc5#)
+(1. ... Qd7 2. Be4#)
+2. Qb7#   1-0
+
+[Event "New York Mail and Express"]
+[Site "?"]
+[Date "1892.??.??"]
+[Round "110"]
+[White "LOYD Samuel"]
+[Black "#2"]
+[Result "1-0"]
+[FEN "2B5/3Q1R2/1p5q/4k3/3p4/4p1r1/5n2/Kn6 w - - 0 1"]
+
+1. Rf4 d3
+(1. ... Qxf4 2. Qe6#)
+(1. ... Ne4 2. Rf5#)
+(1. ... Kxf4 2. Qf5#)
+(1. ... Qc6 2. Qxd4#)
+2. Qd4#   1-0
+
+[Event "New York Mail and Express"]
+[Site "?"]
+[Date "1892.??.??"]
+[Round "111"]
+[White "LOYD Samuel"]
+[Black "#2"]
+[Result "1-0"]
+[FEN "4k3/1Rn1P3/3p1p2/Kp1N1N2/BPr1R1r1/7Q/8/8 w - - 0 1"]
+
+1. Bb3 Kd7
+(1. ... Rf4 2. Nxd6#)
+(1. ... Rc1 2. Nxf6#)
+2. e8=Q#   1-0
+
+[Event "New York State Chess Ass."]
+[Site "?"]
+[Date "1892.??.??"]
+[Round "112"]
+[White "LOYD Samuel"]
+[Black "#2"]
+[Result "1-0"]
+[FEN "8/1n1NBP1K/5Rpn/r4B2/r4k1p/4p3/6Q1/7N w - - 0 1"]
+
+1. Ra6 e2
+(1. ... Re4 2. Qxe4#)
+(1. ... Ng4 2. Qxg4#)
+(1. ... Kxf5 2. Rf6#)
+(1. ... Rxf5 2. Rxa4#)
+(1. ... Ra1 2. Qe4#)
+(1. ... Ra3 2. Qf1#)
+(1. ... Ng8 2. Qg4#)
+(1. ... Nxf5 2. Bg5#)
+2. Qf2#   1-0
+
+[Event "N.Y. Commercial Advertiser"]
+[Site "?"]
+[Date "1895.??.??"]
+[Round "113"]
+[White "LOYD Samuel"]
+[Black "#2"]
+[Result "1-0"]
+[FEN "8/6B1/8/3BNk2/8/2K5/8/2Q5 w - - 0 1"]
+
+1. Bf8 Kf6
+(1. ... Kxe5 2. Qg5#)
+2. Qf4#   1-0
+
+[Event "New Orleans Times"]
+[Site "?"]
+[Date "1895.??.??"]
+[Round "114"]
+[White "LOYD Samuel"]
+[Black "#2"]
+[Result "1-0"]
+[FEN "1BK5/8/2p5/3k4/4bR2/4R3/8/2Q5 w - - 0 1"]
+
+1. Qc2 Bf5+
+(1. ... Kd4 2. Rd3#)
+(1. ... Bf3 2. Qc4#)
+(1. ... Bf3 2. Qf5#)
+(1. ... Ke6 2. Qxe4#)
+(1. ... Bd3 2. Re5#)
+2. Qxf5#   1-0
+
+[Event "N.Y. Comercial Advertiser"]
+[Site "?"]
+[Date "1897.??.??"]
+[Round "115"]
+[White "LOYD Samuel"]
+[Black "#2"]
+[Result "1-0"]
+[FEN "3R3B/Q7/5nK1/3n4/3NkNR1/2p2p2/2P2P2/8 w - - 0 1"]
+
+1. Qh7 Nh5
+(1. ... Ne7+ 2. Qxe7#)
+(1. ... Nd7 2. Kf7#)
+(1. ... Nd7 2. Kg5#)
+(1. ... Nd7 2. Kh5#)
+(1. ... Nd7 2. Kh6#)
+(1. ... Nb4 2. Kxf6#)
+(1. ... Nb4 2. Qe7#)
+(1. ... Ke5 2. Nd3#)
+(1. ... Ne8 2. Nxd5#)
+2. Kxh5#   1-0
+
+[Event "N.Y. Commercial Advertiser"]
+[Site "?"]
+[Date "1897.??.??"]
+[Round "116"]
+[White "LOYD Samuel"]
+[Black "#2"]
+[Result "1-0"]
+[FEN "7B/nQ6/2q2R1K/8/3k2P1/1B4P1/2R2P2/7n w - - 0 1"]
+
+1. Rc3 Qxc3
+(1. ... Qf3 2. Rfxf3#)
+(1. ... Qa6 2. Rxa6#)
+(1. ... Qb6 2. Rxb6#)
+(1. ... Qd6 2. Rxd6#)
+(1. ... Qe6 2. Rxe6#)
+(1. ... Qxf6+ 2. Bxf6#)
+(1. ... Qa4 2. Ra6#)
+(1. ... Qa4 2. Rb6#)
+(1. ... Kxc3 2. Rd6#)
+(1. ... Ke4 2. Re6#)
+(1. ... Qa4 2. Rf4#)
+(1. ... Qa4 2. Rf5#)
+(1. ... Qa4 2. Rf7#)
+(1. ... Qa4 2. Rf8#)
+(1. ... Qa4 2. Rff3# {2. Rg6#})
+2. Qd5#   1-0
+
+[Event "Unpublished"]
+[Site "?"]
+[Date "1900.??.??"]
+[Round "117"]
+[White "LOYD Samuel"]
+[Black "#2"]
+[Result "1-0"]
+[FEN "7Q/7b/5p1p/8/5NN1/4KP2/7R/6k1 w - - 0 1"]
+
+1. Rxh6 f5
+(1. ... Kf1 2. Rh1#)
+2. Qa1#   1-0
+
+[Event "N.Y. Commercial Advertiser"]
+[Site "?"]
+[Date "1901.??.??"]
+[Round "118"]
+[White "LOYD Samuel"]
+[Black "#2"]
+[Result "1-0"]
+[FEN "1nK3R1/1BP3R1/1N3k2/Q4P2/6P1/4B2n/7r/qbb5 w - - 0 1"]
+
+1. Qa6 Qd4
+(1. ... Ke5 2. Nc4#)
+(1. ... Nd7 2. Nxd7#)
+(1. ... Qa2 2. Bd4#)
+(1. ... Qe5 2. Nd5#)
+(1. ... Qa2 2. Nd7#)
+2. Bxd4#   1-0
+
+[Event "Laskers Chess Magazine"]
+[Site "?"]
+[Date "1904.??.??"]
+[Round "119"]
+[White "LOYD Samuel"]
+[Black "#2"]
+[Result "1-0"]
+[FEN "8/1B2p2R/6N1/4Pkb1/8/2N5/8/3K2R1 w - - 0 1"]
+
+1. Bg2 Kg4
+(1. ... Ke6 2. Bh3#)
+2. Be4#   1-0
+
+[Event "St.Louis Globe"]
+[Site "?"]
+[Date "1907.??.??"]
+[Round "120"]
+[White "LOYD Samuel"]
+[Black "#2"]
+[Result "1-0"]
+[FEN "8/8/6B1/8/2k2K2/Q3P3/8/7R w - - 0 1"]
+
+1. Rh6 Kb5
+(1. ... Kd5 2. Bf7#)
+2. Bd3#   1-0
+
+[Event "The Circle"]
+[Site "?"]
+[Date "1908.??.??"]
+[Round "121"]
+[White "LOYD Samuel"]
+[Black "#2"]
+[Result "1-0"]
+[FEN "1B2n2Q/KNpkP1R1/B1NbR1p1/6P1/1pP5/1P6/8/8 w - - 0 1"]
+
+1. Qh7 Kxe6
+(1. ... Kxc6 2. Bb5#)
+(1. ... Bc5+ 2. Nxc5#)
+(1. ... Nf6 2. e8=Q#)
+(1. ... Kc8 2. Nc5#)
+2. Qh3#   1-0
+
+[Event "The Circle"]
+[Site "?"]
+[Date "1909.??.??"]
+[Round "122"]
+[White "LOYD Samuel"]
+[Black "#2"]
+[Result "1-0"]
+[FEN "8/4P3/8/1B1k1NK1/3P4/8/8/8 w - - 0 1"]
+
+1. e8=B Ke6
+(1. ... Ke4 2. Bec6#)
+2. Bc4#   1-0
+
+[Event "?"]
+[Site " INTE0002"]
+[Date "1859.??.??"]
+[Round "123"]
+[White "LOYD Samuel 1859"]
+[Black "#2"]
+[Result "1-0"]
+[FEN "8/8/5Q2/5N2/4pk2/4N3/8/K7 w - - 0 1"]
+
+1. Qa6 Ke5
+(1. ... Kf3 2. Qf1#)
+(1. ... Kg5 2. Qh6#)
+2. Qd6#   1-0
+
+[Event "?"]
+[Site " Y168318"]
+[Date "????.??.??"]
+[Round "124"]
+[White "LOYD Samuel;  : 98953"]
+[Black "#2"]
+[Result "1-0"]
+[FEN "8/1p2PQp1/3k4/p6p/K1Pp1p2/1P5P/P2q4/8 w - - 0 1"]
+
+1. e8=N+ Ke5
+(1. ... Kc5 2. Qc7#)
+2. Qd5#   1-0
+
+[Event "?"]
+[Site " Y175521"]
+[Date "1878.??.??"]
+[Round "125"]
+[White "LOYD Samuel;  : American Chess Journal"]
+[Black "#2"]
+[Result "1-0"]
+[FEN "8/1PPRpRPP/2p1k1p1/2PNrNP1/4r3/4Q3/3BBK2/8 w - - 0 1"]
+
+1. Bf3 Kxd7
+(1. ... Ra4 2. Rdxe7#)
+(1. ... Rxf5 2. Rfxe7#)
+2. c8=Q#   1-0
+
+[Event "?"]
+[Site " Y246028"]
+[Date "1878.??.??"]
+[Round "126"]
+[White "LOYD Samuel;  : American Chess Journal"]
+[Black "#2"]
+[Result "1-0"]
+[FEN "2nrbN2/1p4p1/p2pB2P/P1p2K1p/P1R2B1k/P2PN2n/1p4Q1/2bRqr2 w - - 0 1"]
+
+1. Qxh3+ Kxh3 2. Kg5#   1-0
+
+[Event "?"]
+[Site " Y83451"]
+[Date "1868.??.??"]
+[Round "127"]
+[White "LOYD Samuel;  : American Chess Nuts"]
+[Black "#2"]
+[Result "1-0"]
+[FEN "7K/Q7/2pp4/3k4/B3R2N/2Pr4/8/8 w - - 0 1"]
+
+1. Bc2 c5
+(1. ... Rd4 2. Qxd4#)
+(1. ... c5 2. Qa8#)
+(1. ... Kxe4 2. Qd4#)
+(1. ... Rd1 2. c4#)
+2. Qb7#   1-0
+
+[Event "?"]
+[Site " Y36956"]
+[Date "1868.??.??"]
+[Round "128"]
+[White "LOYD Samuel;  : American Chess Nuts"]
+[Black "#2"]
+[Result "1-0"]
+[FEN "1K6/4pB2/1p2Q3/4P3/1k6/R3B3/1r6/8 w - - 0 1"]
+
+1. Bc1 Kxa3
+(1. ... b5 2. Qxe7#)
+(1. ... Kb5 2. Qc4#)
+(1. ... Ra2 2. Qxb6#)
+2. Qb3#   1-0
+
+[Event "?"]
+[Site " Y178929"]
+[Date "1883.??.??"]
+[Round "129"]
+[White "LOYD Samuel;  : Baltimore News"]
+[Black "#2"]
+[Result "1-0"]
+[FEN "8/6bq/8/7p/Np1P3p/1P1kBQ1K/5P2/4R3 w - - 0 1"]
+
+1. Qf7 Qf5+
+(1. ... Qg6 2. Qxg6#)
+(1. ... Ke4 2. Nc5#)
+(1. ... Kc2 2. Qc4#)
+(1. ... Qg8 2. Qf5#)
+(1. ... Qg8 2. Qg6#)
+(1. ... Be5 2. Qxh7#)
+2. Qxf5#   1-0
+
+[Event "?"]
+[Site " Y83450"]
+[Date "1857.??.??"]
+[Round "130"]
+[White "LOYD Samuel;  : Berliner Schachzeitung"]
+[Black "#2"]
+[Result "1-0"]
+[FEN "2K3Qb/4P2r/5kN1/8/8/5NB1/8/8 w - - 0 1"]
+
+1. Nf4 Rf7
+(1. ... Kxe7 2. Nd5#)
+(1. ... Kf5 2. Qe6#)
+(1. ... Rh1 2. Qf8#)
+(1. ... Kf5 2. Qg6#)
+2. Qg5#   1-0
+
+[Event "?"]
+[Site " Y178546"]
+[Date "1878.??.??"]
+[Round "131"]
+[White "LOYD Samuel;  : Bradford Courier"]
+[Black "#2"]
+[Result "1-0"]
+[FEN "8/8/8/1R6/8/kBp1p3/1qQ4K/1nBn4 w - - 0 1"]
+
+1. Qg2 Qxc1
+(1. ... Nd2 2. Qa8#)
+2. Qa2#   1-0
+
+[Event "?"]
+[Site " Y175260"]
+[Date "1896.??.??"]
+[Round "132"]
+[White "LOYD Samuel;  : Brooklyn Daily Eagle"]
+[Black "#2"]
+[Result "1-0"]
+[FEN "3Q2b1/pp1P2bR/r2kr3/n1p1R3/3N2B1/6B1/8/5K2 w - - 0 1"]
+
+1. Qe8 Bxe5
+(1. ... Rf6+ 2. Rf5#)
+(1. ... Bf7 2. d8=Q#)
+(1. ... Re7 2. Qb8#)
+(1. ... Rc6 2. Nb5#)
+2. d8=R#   1-0
+
+[Event "?"]
+[Site " Y174412"]
+[Date "1890.??.??"]
+[Round "133"]
+[White "LOYD Samuel;  : Buffalo Commercial Advertiser"]
+[Black "#2"]
+[Result "1-0"]
+[FEN "8/8/5R2/4N2p/4p1pk/6R1/4K2P/7Q w - - 0 1"]
+
+1. Rf5 e3 2. Ng6#   1-0
+
+[Event "?"]
+[Site " Y83448"]
+[Date "1859.??.??"]
+[Round "134"]
+[White "LOYD Samuel;  : Charleston Courier"]
+[Black "#2"]
+[Result "1-0"]
+[FEN "8/q1P1Q3/8/8/p7/p4p1K/p1P1pk1N/R3b3 w - - 0 1"]
+
+1. Qb4 Qb6
+(1. ... Qc5 2. Qxc5#)
+(1. ... Qd4 2. Qxd4#)
+(1. ... Qa8 2. Qb6#)
+(1. ... Qa6 2. Qc5#)
+(1. ... Qa5 2. Qd4#)
+(1. ... Kg1 2. Qxe1#)
+(1. ... Ke3 2. Ng4#)
+2. Qxb6#   1-0
+
+[Event "?"]
+[Site " Y169470"]
+[Date "1881.??.??"]
+[Round "135"]
+[White "LOYD Samuel;  : Chess Strategie"]
+[Black "#2"]
+[Result "1-0"]
+[FEN "K2B4/2N5/1kp5/n1n2Q2/8/1b6/1N6/8 w - - 0 1"]
+
+1. Qb1 Ba4
+(1. ... Na4 2. Nxa4#)
+(1. ... Bc4 2. Nxc4#)
+(1. ... Nc4 2. Nxc4#)
+(1. ... Ba2 2. Na4#)
+(1. ... Ba2 2. Nc4#)
+2. Nxa4#   1-0
+
+[Event "?"]
+[Site " Y93867"]
+[Date "1876.??.??"]
+[Round "136"]
+[White "LOYD Samuel;  : Cleveland Leader"]
+[Black "#2"]
+[Result "1-0"]
+[FEN "5r2/Qn1Rp2B/4pp1N/4kq2/2K3R1/8/2n5/4N3 w - - 0 1"]
+
+1. Kb3 Nd8
+(1. ... Na1+ 2. Qxa1#)
+(1. ... Na5+ 2. Qxa5#)
+(1. ... Nc5+ 2. Qxc5#)
+(1. ... Nd4+ 2. Qxd4#)
+(1. ... Qe4 2. Rxe4#)
+(1. ... Qd3+ 2. Nxd3#)
+(1. ... Qf3+ 2. Nxf3#)
+(1. ... Rf7 2. Nxf7#)
+(1. ... Nb4 2. Qa1#)
+(1. ... Nd8 2. Qa5# {2. Qb8#})
+(1. ... Nd6 2. Qc5#)
+(1. ... Na3 2. Qd4#)
+(1. ... Qf1 2. Re4#)
+(1. ... Qf2 2. Nd3#)
+(1. ... Qg5 2. Nf3#)
+(1. ... Ra8 2. Nf7#)
+2. Qc7#   1-0
+
+[Event "?"]
+[Site " Y179274"]
+[Date "1876.??.??"]
+[Round "137"]
+[White "LOYD Samuel;  : Detroit Free Press"]
+[Black "#2"]
+[Result "1-0"]
+[FEN "8/1N2N3/2r5/3qp2R/QP2kp1K/5R2/6B1/6B1 w - - 0 1"]
+
+1. Qa8 Qd4
+(1. ... Qc5 2. Nxc5#)
+(1. ... Rc5 2. Nxc5#)
+(1. ... Qd6 2. Nxd6#)
+(1. ... Rd6 2. Nxd6#)
+(1. ... Qa2 2. Nc5#)
+(1. ... Qa2 2. Nd6#)
+2. Re3#   1-0
+
+[Event "?"]
+[Site " Y174126"]
+[Date "1879.??.??"]
+[Round "138"]
+[White "LOYD Samuel;  : Detroit Free Press"]
+[Black "#2"]
+[Result "1-0"]
+[FEN "1Q6/5p2/4PP2/3k4/1P4N1/3N4/1PB5/R3K3 w Q - 0 1"]
+
+1. O-O-O Ke4
+(1. ... Kxe6 2. Nc5#)
+(1. ... Kc4 2. Nde5#)
+(1. ... Kxe6 2. Nf4#)
+2. Ne1#   1-0
+
+[Event "?"]
+[Site " Y176629"]
+[Date "1890.??.??"]
+[Round "139"]
+[White "LOYD Samuel;  : Illustrated American"]
+[Black "#2"]
+[Result "1-0"]
+[FEN "3Brb2/3B4/8/3p4/8/RN1k1NQ1/1np1pnK1/2qrb3 w - - 0 1"]
+
+1. Be7 Qd2
+(1. ... Rd2 2. Nbxd2#)
+(1. ... Bd2 2. Nbxd2#)
+(1. ... Qd2 2. Nfxd2#)
+(1. ... Rd2 2. Nfxd2#)
+(1. ... Bd2 2. Nfxd2#)
+(1. ... Kc3 2. Na5#)
+(1. ... Kc3 2. Nbd2#)
+(1. ... Ke4 2. Nc5#)
+(1. ... Kc4 2. Ne5#)
+(1. ... Ke3 2. Nfd2#)
+(1. ... Ke3 2. Ng5#)
+2. Nbxd2#   1-0
+
+[Event "?"]
+[Site " Y36969"]
+[Date "1867.??.??"]
+[Round "140"]
+[White "LOYD Samuel;  : La Strategie"]
+[Black "#2"]
+[Result "1-0"]
+[FEN "K7/3R4/8/5r2/4N2R/2r2k2/3p2N1/4bBQ1 w - - 0 1"]
+
+1. Qc5 d1=N
+(1. ... Ra3+ 2. Qxa3#)
+(1. ... Re3 2. Qxe3#)
+(1. ... Bf2 2. Qxf2#)
+(1. ... Rf8+ 2. Qxf8#)
+(1. ... Rh5 2. Qxh5#)
+(1. ... Rd3 2. Rxd3#)
+(1. ... Rf4 2. Rxf4#)
+(1. ... Rf7 2. Rxf7#)
+(1. ... d1=Q 2. Qxf5#)
+(1. ... d1=B 2. Nxe1#)
+(1. ... d1=N 2. Qxf5#)
+(1. ... Rc1 2. Qe3#)
+(1. ... Rf6 2. Qh5#)
+(1. ... Re5 2. Qxc3#)
+(1. ... Rb3 2. Qxf5#)
+(1. ... Rc1 2. Rd3#)
+(1. ... Rd5 2. Rf4#)
+(1. ... Bg3 2. Nxd2#)
+2. Nxe1#   1-0
+
+[Event "?"]
+[Site " Y210929"]
+[Date "1867.??.??"]
+[Round "141"]
+[White "LOYD Samuel;  : La Strategie"]
+[Black "#2"]
+[Result "1-0"]
+[FEN "8/1b6/1qPBP3/5K2/1npkP3/Q1N2p2/2prpP2/b1N5 w - - 0 1"]
+
+1. Qa7 Kxc3
+(1. ... Bxc3 2. Qxb6#)
+(1. ... Qc5+ 2. Be5#)
+(1. ... e1=Q 2. Nb5#)
+(1. ... Ba6 2. Qg7#)
+(1. ... Qxa7 2. Nb5#)
+2. Qxa1#   1-0
+
+[Event "?"]
+[Site " Y246031"]
+[Date "1877.??.??"]
+[Round "142"]
+[White "LOYD Samuel;  : Lebanon Herald"]
+[Black "#2"]
+[Result "1-0"]
+[FEN "1bBB1NR1/3RP1q1/4PPn1/1Pr1k2K/5p1P/6r1/4nQP1/3b4 w - - 0 1"]
+
+1. Qxc5+ Kxf6
+(1. ... Ke4 2. Bb7#)
+2. e8=N#   1-0
+
+[Event "?"]
+[Site " Y246027"]
+[Date "1886.??.??"]
+[Round "143"]
+[White "LOYD Samuel;  : New York Evening Telegram"]
+[Black "#2"]
+[Result "1-0"]
+[FEN "8/rpPR2Q1/3b1B1R/2pp1k2/2r3p1/1q2p2P/p4nB1/KbnN2N1 w - - 0 1"]
+
+1. Rf7 Ne4
+(1. ... Qb2+ 2. Bxb2#)
+(1. ... Qc3+ 2. Bxc3#)
+(1. ... Rc3 2. Bxc3#)
+(1. ... Rd4 2. Bxd4#)
+(1. ... d4 2. Bxd4#)
+(1. ... Be5+ 2. Bxe5#)
+(1. ... Be7 2. Bxe7#)
+(1. ... Bf4 2. c8=Q#)
+(1. ... Qa3 2. Bb2# {2. Bc3#})
+(1. ... Qa3 2. Bd4#)
+(1. ... Qa3 2. Bd8#)
+(1. ... Kf4 2. Be5#)
+(1. ... Qa3 2. Be7#)
+(1. ... Qa3 2. Bg5#)
+(1. ... Qa3 2. Bh4#)
+2. Qxg4#   1-0
+
+[Event "?"]
+[Site " Y202851"]
+[Date "1890.??.??"]
+[Round "144"]
+[White "LOYD Samuel;  : New York Evening Telegram"]
+[Black "#2"]
+[Result "1-0"]
+[FEN "Q7/1p4p1/8/1Rp5/K7/8/8/k7 w - - 0 1"]
+
+1. Ka5 b6+
+(1. ... Ka2 2. Kb6#)
+2. Kxb6#   1-0
+
+[Event "?"]
+[Site " Y180561"]
+[Date "????.??.??"]
+[Round "145"]
+[White "LOYD Samuel;  : New York Grachhic"]
+[Black "#2"]
+[Result "1-0"]
+[FEN "2R3nK/3B4/R4B1p/1N1k1b2/Q4q1r/4r3/2Pn4/8 w - - 0 1"]
+
+1. Qe4+ Qxe4
+(1. ... Kxe4 2. Bc6#)
+(1. ... Bxe4 2. Be6#)
+(1. ... Rxe4 2. Nc3#)
+(1. ... Nxe4 2. c4#)
+2. Rd6#   1-0
+
+[Event "?"]
+[Site " Y179153"]
+[Date "1890.??.??"]
+[Round "146"]
+[White "LOYD Samuel;  : New York Star"]
+[Black "#2"]
+[Result "1-0"]
+[FEN "q7/2n5/8/r2p4/8/6NK/8/nQ1B2k1 w - - 0 1"]
+
+1. Nh1 Ra4
+(1. ... Nb3 2. Bxb3#)
+(1. ... Nc2 2. Bxc2#)
+(1. ... Kxh1 2. Ba4#)
+(1. ... Kxh1 2. Bb3#)
+(1. ... Kxh1 2. Bc2#)
+(1. ... Kxh1 2. Be2#)
+(1. ... Kf1 2. Bf3#)
+(1. ... Kf1 2. Bg4#)
+(1. ... Kf1 2. Bh5#)
+2. Bxa4#   1-0
+
+[Event "?"]
+[Site " Y179909"]
+[Date "1913.??.??"]
+[Round "147"]
+[White "LOYD Samuel;  : Sam Loyd and His Chess Problems"]
+[Black "#2"]
+[Result "1-0"]
+[FEN "2B1Q3/8/7K/5pR1/1Bn1nk2/1N5P/4R3/6N1 w - - 0 1"]
+
+1. Qa4 Ke5
+(1. ... Ned2 2. Bxd2#)
+(1. ... Nc5 2. Bd2#)
+(1. ... Na3 2. Bd6#)
+(1. ... Ncd6 2. Bxd6#)
+2. Rxf5#   1-0
+
+[Event "?"]
+[Site " Y175517"]
+[Date "1926.??.??"]
+[Round "148"]
+[White "LOYD Samuel;  : Sam Loyd und seine Schachaufgaben"]
+[Black "#2"]
+[Result "1-0"]
+[FEN "3nrn2/1pp1pPpP/1RP1kPBP/3pBp2/3P1P2/3R1P2/3NQK2/8 w - - 0 1"]
+
+1. Ne4 exf6
+(1. ... dxe4 2. d5#)
+(1. ... fxe4 2. f5#)
+(1. ... exf6 2. fxe8=Q#)
+(1. ... dxe4 2. Qa2#)
+(1. ... Nxc6 2. Nc5#)
+(1. ... Nd7 2. Ng5#)
+2. fxe8=R#   1-0
+
+[Event "?"]
+[Site " Y173364"]
+[Date "1926.??.??"]
+[Round "149"]
+[White "LOYD Samuel;  : Sam Loyd und seine Schachaufgaben"]
+[Black "#2"]
+[Result "1-0"]
+[FEN "7k/5Rr1/5BR1/4P3/3K4/1Qr5/2B5/8 w - - 0 1"]
+
+1. Bxg7+ Kg8
+2. Bf6#   1-0
+
+[Event "?"]
+[Site " Y171895"]
+[Date "1926.??.??"]
+[Round "150"]
+[White "LOYD Samuel;  : Sam Loyd und seine Schachaufgaben"]
+[Black "#2"]
+[Result "1-0"]
+[FEN "8/8/5R2/2pPp3/p2kp3/R1N3Q1/2K5/8 w - - 0 1"]
+
+1. Qg7 c4
+(1. ... Ke3 2. Qg1#)
+(1. ... e3 2. Rf4#)
+(1. ... Kc4 2. Rxa4#)
+2. Qa7#   1-0
+
+[Event "?"]
+[Site " Y125281"]
+[Date "1903.??.??"]
+[Round "151"]
+[White "LOYD Samuel;  : Schachminiaturen"]
+[Black "#2"]
+[Result "1-0"]
+[FEN "8/4P3/6K1/1BBk4/8/3N4/8/8 w - - 0 1"]
+
+1. e8=B Ke4
+(1. ... Ke6 2. Bc4#)
+(1. ... Ke6 2. Bf7#)
+2. Bec6#   1-0
+
+[Event "?"]
+[Site " Y246032"]
+[Date "1868.??.??"]
+[Round "152"]
+[White "LOYD Samuel;  : Seaforth Expositor"]
+[Black "#2"]
+[Result "1-0"]
+[FEN "4n1br/7Q/4p3/K7/2kp1pNR/1Np5/B1prP3/8 w - - 0 1"]
+
+1. e4 Kd3
+(1. ... e5 2. Nxe5#)
+(1. ... c1=Q 2. Ne5#)
+(1. ... dxe3 2. Nxe3#)
+2. Nc1#   1-0
+
+[Event "?"]
+[Site " Y180180"]
+[Date "1908.??.??"]
+[Round "153"]
+[White "LOYD Samuel;  : The Circle"]
+[Black "#2"]
+[Result "1-0"]
+[FEN "8/rB4nK/NPq3PP/1p1R2p1/1p2k1p1/1r3NP1/bQ3PRb/8 w - - 0 1"]
+
+1. Qf6 Kxd5
+(1. ... Nf5 2. Qxf5#)
+(1. ... Rd3 2. Re5#)
+(1. ... Qc5 2. Nxc5#)
+(1. ... Rxf3 2. Qd4# {2. Qe5#})
+(1. ... Ne6 2. Qf5#)
+(1. ... Qc1 2. Rd4#)
+(1. ... Qd7 2. Nc5#)
+(1. ... Qc4 2. Nd2#)
+(1. ... Qc2 2. Nxg5#)
+2. Qxc6#   1-0
+
+[Event "?"]
+[Site " Y170369"]
+[Date "1908.??.??"]
+[Round "154"]
+[White "LOYD Samuel;  : The Circle"]
+[Black "#2"]
+[Result "1-0"]
+[FEN "8/3BrN2/2n1p1b1/4p3/4k3/1R2n3/1K2N3/2RQ4 w - - 0 1"]
+
+1. Qd5+ Kf5
+(1. ... Kxd5 2. Bxc6#)
+(1. ... Nxd5 2. Nd6#)
+(1. ... exd5 2. Ng5#)
+2. Qf3#   1-0
+
+[Event "?"]
+[Site " Y126025"]
+[Date "1909.??.??"]
+[Round "155"]
+[White "LOYD Samuel;  : The Circle"]
+[Black "#2"]
+[Result "1-0"]
+[FEN "8/4P3/8/1B1k1NK1/8/3N4/8/8 w - - 0 1"]
+
+1. e8=B Ke6
+(1. ... Ke4 2. Bec6#)
+2. Bc4#   1-0
+
+[Event "?"]
+[Site " Y174219"]
+[Date "1858.??.??"]
+[Round "156"]
+[White "LOYD Samuel;  : The Musical World"]
+[Black "#2"]
+[Result "1-0"]
+[FEN "1Q5q/3p4/3Npp2/2Ppk3/1p1r2p1/1p1P2P1/1B6/R3K2R w KQ - 0 1"]
+
+1. Rf1 f5
+(1. ... Qc8 2. Nc4#)
+(1. ... Qc8 2. Nf7#)
+2. Qxh8#   1-0
+
+[Event "?"]
+[Site " Y36957"]
+[Date "1868.??.??"]
+[Round "157"]
+[White "LOYD Samuel;  : Turf Field and Farm"]
+[Black "#2"]
+[Result "1-0"]
+[FEN "4B3/4p3/4kp2/3r1N1R/1K6/1Q6/8/B7 w - - 0 1"]
+
+1. Kc4 Rb5
+(1. ... Rc5+ 2. Kxc5#)
+(1. ... Rd3 2. Kxd3#)
+(1. ... Rd4+ 2. Kxd4#)
+(1. ... Ra5 2. Qb6#)
+(1. ... Rd1 2. Qe3#)
+(1. ... Rd6 2. Ng7#)
+2. Kxb5#   1-0
+
+[Event "?"]
+[Site " E3G18286"]
+[Date "1998.04.02"]
+[Round "158"]
+[White "LOYD Samuel; 1998.04.02"]
+[Black "#2"]
+[Result "1-0"]
+[FEN "7Q/7b/5p1p/8/5NB1/4KP2/7R/6k1 w - - 0 1"]
+
+1. Rxh6 f5
+(1. ... Kf1 2. Rh1#)
+2. Qa1#   1-0
+
+[Event "?"]
+[Site " D6D47111"]
+[Date "1998.04.02"]
+[Round "159"]
+[White "LOYD Samuel; 1998.04.02"]
+[Black "#2"]
+[Result "1-0"]
+[FEN "8/5p2/1p1K1p2/p2N3b/2Nk1r2/1P2R3/3r3n/b5Q1 w - - 0 1"]
+
+1. Qxa1+ Rb2 2. Qxb2#   1-0
+
+[Event "?"]
+[Site " C2D57548"]
+[Date "1999.03.26"]
+[Round "160"]
+[White "LOYD Samuel; 1999.03.26"]
+[Black "#2"]
+[Result "1-0"]
+[FEN "5B2/3n4/3pp3/3kN1Q1/1R6/3P4/2K5/8 w - - 0 1"]
+
+1. Qd8 Kxe5
+(1. ... Kc5 2. Qa5#)
+(1. ... dxe5 2. Qa8#)
+(1. ... Nb6 2. Qxd6#)
+(1. ... dxe5 2. Qxd7#)
+2. Qg5#   1-0
+
+[Event "?"]
+[Site " LOYD0094"]
+[Date "1868.??.??"]
+[Round "161"]
+[White "LOYD Samuel; American Chess Nuts 1868"]
+[Black "#2"]
+[Result "1-0"]
+[FEN "n3k2r/1Pb1p3/1p2Q3/1K1B4/8/8/8/8 w k - 0 1"]
+
+1. b8=N Rg8
+(1. ... Bd6 2. Qc8#)
+(1. ... Kd8 2. Qd7#)
+(1. ... Kf8 2. Qf7#)
+(1. ... Rh1 2. Qg8#)
+2. Qxg8#   1-0
+
+[Event "?"]
+[Site " LOYD0254"]
+[Date "1857.??.??"]
+[Round "162"]
+[White "LOYD Samuel; Chess Monthly 1857; 1� Prize"]
+[Black "#2"]
+[Result "1-0"]
+[FEN "4brrb/8/2p4P/7Q/3p1kpP/3P1pN1/5K2/8 w - - 0 1"]
+
+1. Qc5 Be5
+(1. ... Rf5 2. Qxf5#)
+(1. ... Rg5 2. Qxg5#)
+(1. ... Bh5 2. Nxh5#)
+(1. ... Rg7 2. Qd6#)
+(1. ... Bf6 2. Qf5#)
+(1. ... Bg6 2. Qg5#)
+(1. ... Rf6 2. Qxd4#)
+(1. ... Rf7 2. Nh5#)
+2. Qc1#   1-0
+
+[Event "?"]
+[Site " LOYD0008"]
+[Date "1859.??.??"]
+[Round "163"]
+[White "LOYD Samuel; Chess Monthly 1859"]
+[Black "#2"]
+[Result "1-0"]
+[FEN "8/1pN5/1Pb5/n1q1n3/8/PpkpP2Q/1N1R4/2K5 w - - 0 1"]
+
+1. Qc8 Qb5
+(1. ... Bb5 2. Nxb5#)
+(1. ... Qd5 2. Nxd5#)
+(1. ... Bd5 2. Nxd5#)
+(1. ... Nd7 2. Rxd3#)
+(1. ... Qd4 2. Nb5#)
+(1. ... Qc4 2. Nd1#)
+(1. ... Qb4 2. Nd5#)
+2. Nxb5#   1-0
+
+[Event "?"]
+[Site " LOYD0143"]
+[Date "1892.??.??"]
+[Round "164"]
+[White "LOYD Samuel; N.Y.Commercial Advertiser 1892"]
+[Black "#2"]
+[Result "1-0"]
+[FEN "8/4p3/B1Rq1p2/2pk1B2/N1R5/N7/KQ3B2/8 w - - 0 1"]
+
+1. Qb8 e5
+(1. ... Kxc6 2. Bb7#)
+(1. ... Qxc6 2. Nc3#)
+(1. ... Kxc6 2. Qb7#)
+(1. ... e5 2. Qxd6#)
+(1. ... Qc7 2. R4xc5#)
+(1. ... Ke5 2. R6xc5#)
+(1. ... Qd7 2. Be4#)
+2. Rxd6#   1-0
+
+[Event "?"]
+[Site " LOYD0091"]
+[Date "1877.??.??"]
+[Round "165"]
+[White "LOYD Samuel; New York Clipper 1877"]
+[Black "#2"]
+[Result "1-0"]
+[FEN "2B5/1R6/1B2n3/4p1kp/4P2N/8/4Q1NK/8 w - - 0 1"]
+
+1. Qa6 Kg4
+(1. ... Nd8 2. Bxd8#)
+(1. ... Kf6 2. Bd8#)
+(1. ... Kh6 2. Be3#)
+2. Rg7#   1-0
+
+[Event "?"]
+[Site " LOYD0097"]
+[Date "1892.??.??"]
+[Round "166"]
+[White "LOYD Samuel; New York State Chess Assoc 1892"]
+[Black "#2"]
+[Result "1-0"]
+[FEN "6kn/3NR3/6rR/5N2/p4P2/Knp2r1p/B1P4b/7Q w - - 0 1"]
+
+1. Rxh3 Nf7
+(1. ... Rg7 2. Rxg7#)
+(1. ... Rh6 2. Nxh6#)
+(1. ... Rd3 2. Qa8#)
+(1. ... Ra6 2. Rg7#)
+(1. ... Bg1 2. Rxh8#)
+(1. ... Rg1 2. Nh6#)
+2. Re8#   1-0
+
+[Event "?"]
+[Site " TECH0019"]
+[Date "1889.??.??"]
+[Round "167"]
+[White "LOYD Samuel; New York Sunday Herald 1889 (37)"]
+[Black "#2"]
+[Result "1-0"]
+[FEN "3r3r/pbp2pbp/1p5q/8/Q6P/B2B1PPN/1R2P1N1/2k1n1KR w - - 0 1"]
+
+1. Kh2 Qd2
+(1. ... Qd6 2. Qc2#)
+(1. ... Rd4 2. Ra2#)
+(1. ... Qc6 2. Rxe1#)
+2. Rb1#   1-0
+
+[Event "?"]
+[Site " TECH0036"]
+[Date "1868.??.??"]
+[Round "168"]
+[White "LOYD Samuel; Seaforth Expositor 1868 (61)"]
+[Black "#2"]
+[Result "1-0"]
+[FEN "4n1br/7Q/4p3/8/K1kp1pNR/1Np5/B1prP3/8 w - - 0 1"]
+
+1. e4 Kd3
+(1. ... e5 2. Nxe5#)
+(1. ... c1=Q 2. Ne5#)
+(1. ... dxe3 2. Nxe3#)
+2. Nc1#   1-0

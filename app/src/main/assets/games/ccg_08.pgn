@@ -1,0 +1,16 @@
+[Event "ChessCube Game"]
+[Site "www.chesscube.com"]
+[Date "2009.10.05"]
+[Round "-"]
+[White "rotocolo@chesscube.com"]
+[Black "w1212@chesscube.com"]
+[Result "1-0"]
+[WhiteElo "1667"]
+[BlackElo "1682"]
+[Time "5:00"]
+[TimeControl "5 min"]
+[Variant "chess 960"]
+[SetUp "1"]
+[FEN "nnbrkqrb/pppppppp/8/8/8/8/PPPPPPPP/NNBRKQRB w KQkq -"]
+
+1. e4  d6 2. g3  e5 3. f4  exf4 4. Qxf4  Nd7 5. d3  g6 6. Nc3  Be5 7. Qf3  Nab6 8. Nb3  Qg7 9. Bd2  O-O 10. Qf2  Nf6 11. O-O-O  Ng4 12. Qg2  Nd7 13. h3  Ngf6 14. Qf2  Nb6 15. d4  Bxd4 16. Qxd4  c5 17. Qf2  Bxh3 18. Bf4  Bg4 19. Rde1  g5 20. Bd2  Nc4 21. Kb1  Nxd2+ 22. Qxd2  Be6 23. e5  dxe5 24. Qe3  e4 25. Qxc5  b6 26. Qa3  Bxb3 27. axb3  a5 28. Nxe4  Nxe4 29. Bxe4  Rfe8 30. Bc6  Rxe1+ 31. Rxe1  Qd4 32. Bb5  Qf2 33. Rc1  Qxg3 34. Qa4  g4 35. Qe4  Rf8 36. Bd3  Qh3 37. Rh1   1-0

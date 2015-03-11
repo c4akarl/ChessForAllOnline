@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<style name="c4aTV1" parent="@android:style/Widget.TextView">
+        <item name="android:layout_marginTop">11dip</item>
+        <item name="android:layout_marginLeft">5dip</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">40dip</item>
+        <item name="android:textColor">@color/text_light</item>
+        <item name="android:textSize">30sp</item>
+    </style>
+    <style name="c4aET1" parent="@android:style/Widget.EditText">
+        <item name="android:layout_marginLeft">5dip</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">40dip</item>
+        <item name="android:layout_marginTop">4dip</item>
+        <item name="android:paddingLeft">3dip</item>
+        <item name="android:paddingRight">3dip</item>
+        <item name="android:singleLine">true</item>
+        <item name="android:background">@drawable/bordergreen</item>
+        <item name="android:textColor">@color/text_dark</item>
+        <item name="android:textSize">30sp</item>
+    </style>
+    <style name="c4aTV2" parent="@android:style/Widget.TextView">
+        <item name="android:layout_marginLeft">5dip</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">40dip</item>
+        <item name="android:layout_marginTop">4dip</item>
+        <item name="android:paddingLeft">3dip</item>
+        <item name="android:paddingRight">3dip</item>
+        <item name="android:singleLine">true</item>
+        <item name="android:background">@drawable/bordergrey</item>
+        <item name="android:textColor">@color/text_dark</item>
+        <item name="android:text"> .pgn </item>
+        <item name="android:textSize">30sp</item>
+    </style>
+    <style name="c4aTV3" parent="@android:style/Widget.TextView">
+        <item name="android:layout_marginTop">0dip</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">40dip</item>
+        <item name="android:textColor">@color/text_light</item>
+        <item name="android:textSize">30sp</item>
+    </style>
+    <style name="c4aTV30" parent="@android:style/Widget.TextView">
+        <item name="android:layout_width">60dip</item>
+        <item name="android:layout_height">40dip</item>
+        <item name="android:textColor">@color/text_light</item>
+        <item name="android:textSize">30sp</item>
+    </style>
+    <style name="c4aTV50" parent="@android:style/Widget.TextView">
+        <item name="android:layout_width">120dip</item>
+        <item name="android:layout_height">40dip</item>
+        <item name="android:textColor">@color/text_light</item>
+        <item name="android:textSize">30sp</item>
+    </style>
+    <style name="c4aTV60" parent="@android:style/Widget.TextView">
+        <item name="android:layout_width">120dip</item>
+        <item name="android:layout_height">40dip</item>
+        <item name="android:textColor">@color/text_light</item>
+        <item name="android:textSize">30sp</item>
+    </style>
+    <style name="c4aET3" parent="@android:style/Widget.EditText">
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">40dip</item>
+        <item name="android:singleLine">true</item>
+        <item name="android:background">@drawable/bordergreen</item>
+        <item name="android:textColor">@color/text_dark</item>
+        <item name="android:textSize">30sp</item>
+    </style>
+    <style name="c4aBtn1" parent="@android:style/Widget.Button">
+        <item name="android:textColor">@color/text_dark</item>
+        <item name="android:textSize">30sp</item>
+        <item name="android:layout_marginBottom">1dip</item>
+        <item name="android:layout_marginLeft">1dip</item>
+        <item name="android:layout_marginRight">1dip</item>
+        <item name="android:paddingLeft">3dip</item>
+        <item name="android:paddingRight">3dip</item>
+        <item name="android:background">@drawable/button_grey</item>
+        <item name="android:focusable">true</item>
+        <item name="android:clickable">true</item>
+    </style>
+    <style name="c4aImgBtn1" parent="@android:style/Widget.ImageButton">
+        <item name="android:layout_marginTop">1dip</item>
+        <item name="android:layout_marginBottom">1dip</item>
+        <item name="android:layout_marginLeft">1dip</item>
+        <item name="android:layout_marginRight">1dip</item>
+        <item name="android:paddingLeft">1dip</item>
+        <item name="android:paddingRight">1dip</item>
+        <item name="android:background">@drawable/button_grey</item>
+        <item name="android:focusable">true</item>
+        <item name="android:clickable">true</item>
+    </style>
+</resources>
