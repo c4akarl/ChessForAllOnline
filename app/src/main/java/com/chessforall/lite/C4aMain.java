@@ -7,6 +7,7 @@ import java.net.Socket;
 import java.net.UnknownHostException;
 import java.util.HashMap;
 
+import android.Manifest;
 import android.app.Activity;
 import android.app.Dialog;
 import android.app.ProgressDialog;
@@ -14,6 +15,7 @@ import android.content.Context;
 import android.content.DialogInterface;
 import android.content.Intent;
 import android.content.SharedPreferences;
+import android.content.pm.PackageManager;
 import android.graphics.Bitmap;
 import android.graphics.BitmapFactory;
 import android.graphics.Canvas;
@@ -21,10 +23,14 @@ import android.graphics.Paint;
 import android.media.AudioManager;
 import android.media.SoundPool;
 import android.net.Uri;
+import android.os.Build;
 import android.os.Bundle;
 import android.os.Handler;
 import android.os.PowerManager;
 import android.os.PowerManager.WakeLock;
+import android.os.StrictMode;
+import android.support.v4.app.ActivityCompat;
+import android.support.v4.content.ContextCompat;
 import android.view.View;
 import android.widget.EditText;
 import android.widget.GridView;
@@ -50,9 +56,16 @@ public class C4aMain extends Activity implements Ic4aDialogCallback, DialogInter
 {
 //	MainActivity: ChessGame			MainActivity: ChessGame			MainActivity: ChessGame			
     @Override
-    public void onCreate(Bundle savedInstanceState) 										// Program-Start 					(onCreate)
+    public void onCreate(Bundle savedInstanceState)
     {
         super.onCreate(savedInstanceState);
+
+		if (android.os.Build.VERSION.SDK_INT > 9)
+		{
+			StrictMode.ThreadPolicy policy = new StrictMode.ThreadPolicy.Builder().permitAll().build();
+			StrictMode.setThreadPolicy(policy);
+		}
+
     	// preferences
         c4aPrefsUser = getSharedPreferences("c4aPrefsUser", 0);		//	user Preferences
         c4aPrefsRun = getSharedPreferences("c4aPrefsRun", 0);		//	run Preferences
@@ -67,6 +80,7 @@ public class C4aMain extends Activity implements Ic4aDialogCallback, DialogInter
         filePath = c4aPrefsRun.getString("c4a_game0_file_path", "");
         fileName = c4aPrefsRun.getString("c4a_game0_file_name", "");
         cl = new ChessLogic(this);
+		getPermissions();
     	initArray(serviceArrayLength);
         chessBoard = new ChessBoard(this, fen.toString(), getChessFieldSize(), getImageSet());
 //        chessBoard.setImageSet(getImageSet());
@@ -112,6 +126,7 @@ public class C4aMain extends Activity implements Ic4aDialogCallback, DialogInter
         btnEditGame = (ImageView) findViewById(R.id.btnEditGame);
         btnData = (ImageView) findViewById(R.id.btnData);
         btnSaveGame = (ImageView) findViewById(R.id.btnSaveGame);
+		btnMenu = (ImageView) findViewById(R.id.btnMenu);
         btnGame1 = (ImageView) findViewById(R.id.btnGame1);
         btnGame2 = (ImageView) findViewById(R.id.btnGame2);
         btnGame3 = (ImageView) findViewById(R.id.btnGame3);
@@ -167,6 +182,25 @@ public class C4aMain extends Activity implements Ic4aDialogCallback, DialogInter
     	super.onPause();
     	stopAutoPlay();
     }
+	@Override
+	public void onRequestPermissionsResult(int requestCode, String permissions[], int[] grantResults)
+	{
+		switch (requestCode)
+		{
+			case PERMISSIONS_REQUEST_CODE:
+				if (grantResults.length > 0)
+				{
+					for (int i = 0; i < grantResults.length; i++)
+					{
+						if (grantResults[i] == PackageManager.PERMISSION_GRANTED)
+							Log.i(TAG, permissions[i] + " was granted");
+						else
+							Log.i(TAG, permissions[i] + " denied");
+					}
+				}
+				return;
+		}
+	}
 //	OptionsMenu		OptionsMenu		OptionsMenu		OptionsMenu		OptionsMenu		OptionsMenu
     @Override 
     public boolean onCreateOptionsMenu(Menu menu) 
@@ -842,6 +876,9 @@ public class C4aMain extends Activity implements Ic4aDialogCallback, DialogInter
 		case R.id.chatLog:
 			ficsChatLogOn = false;
 			scrlChatLog.setVisibility(ScrollView.INVISIBLE);
+			break;
+		case R.id.btnMenu:
+			openOptionsMenu();
 			break;
 		}
 	}
@@ -1536,8 +1573,18 @@ public class C4aMain extends Activity implements Ic4aDialogCallback, DialogInter
 			br = new BufferedReader(isr);
 			connectedToServer = true;
 		}
-    	catch (UnknownHostException e) {ficsDismissProgressDialog();}
-		catch (Exception e) {ficsDismissProgressDialog();}
+    	catch (UnknownHostException e)
+		{
+			Log.i(TAG, "UnknownHostException, port: " + port);
+			e.printStackTrace();
+			ficsDismissProgressDialog();
+		}
+		catch (Exception e)
+		{
+			Log.i(TAG, "Exception, port: " + port);
+			e.printStackTrace();
+			ficsDismissProgressDialog();
+		}
 	}
     public void ficsExit()
 	{
@@ -3188,6 +3235,16 @@ public class C4aMain extends Activity implements Ic4aDialogCallback, DialogInter
 		showMove.setClickable(true);
 		gridview.setSelection(36);
     }
+	public void getPermissions()
+	{
+		if (Build.VERSION.SDK_INT >= 23)
+		{
+			String[] permissions = new String[]
+				{Manifest.permission.INTERNET, Manifest.permission.WRITE_EXTERNAL_STORAGE, Manifest.permission.WAKE_LOCK};
+			ActivityCompat.requestPermissions(this, permissions, PERMISSIONS_REQUEST_CODE);
+		}
+
+	}
 
     final String TAG = "C4aMain";  
 	boolean isLargeScreen = false;
@@ -3207,6 +3264,7 @@ public class C4aMain extends Activity implements Ic4aDialogCallback, DialogInter
 	private static final int APPS_REQUEST_CODE = 21;
 	private static final int HOMEPAGE_REQUEST_CODE = 22;
 	private static final int SOURCECODE_REQUEST_CODE = 23;
+	private static final int PERMISSIONS_REQUEST_CODE = 50;
 //	FICS - DialogCode
 	private static final int FICS_PROGRESS_DIALOG = 190;
 	private static final int FICS_ERROR_DIALOG = 191;
@@ -3401,4 +3459,6 @@ public class C4aMain extends Activity implements Ic4aDialogCallback, DialogInter
     ImageView btnEditGame = null;
     ImageView btnData = null;
     ImageView btnSaveGame = null;
+
+    ImageView btnMenu = null;
 }
